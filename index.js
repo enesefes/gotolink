@@ -1,6 +1,8 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
+const dynamically_link = "preview_link";
+
 // Rest of your code
 
 (async () => {
@@ -8,7 +10,7 @@ const fs = require('fs');
     const page = await browser.newPage();
   
     // Navigate to the target web page
-    await page.goto('https://sh.analyzify.app/');
+    await page.goto(dynamically_link);
   
     // Execute the provided JavaScript code in the page context
     const result = await page.evaluate(() => {
