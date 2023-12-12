@@ -1,0 +1,5586 @@
+{
+  "accesstoken": [
+    {
+      "name": "charge_date_date",
+      "value": "date",
+      "display": "charge_date",
+      "deleted": null
+    },
+    {
+      "name": "configured__boolean",
+      "value": "boolean",
+      "display": "configured?",
+      "deleted": null
+    },
+    {
+      "name": "expires_in_number",
+      "value": "number",
+      "display": "expires_in",
+      "deleted": null
+    },
+    {
+      "name": "newscopes_boolean",
+      "value": "boolean",
+      "display": "newScopes",
+      "deleted": null
+    },
+    {
+      "name": "oldstore__boolean",
+      "value": "boolean",
+      "display": "oldStore?",
+      "deleted": null
+    },
+    {
+      "name": "paid__boolean",
+      "value": "boolean",
+      "display": "paid?",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    },
+    {
+      "name": "test2_text",
+      "value": "text",
+      "display": "test2",
+      "deleted": null
+    },
+    {
+      "name": "token_id_text",
+      "value": "text",
+      "display": "token-id",
+      "deleted": null
+    }
+  ],
+  "add_ons": [
+    {
+      "name": "feature_name_text",
+      "value": "text",
+      "display": "Feature-name",
+      "deleted": null
+    },
+    {
+      "name": "icon_text",
+      "value": "text",
+      "display": "icon",
+      "deleted": null
+    },
+    {
+      "name": "learnmorelink_text",
+      "value": "text",
+      "display": "LearnmoreLink",
+      "deleted": null
+    }
+  ],
+  "analyzify_partner": [
+    {
+      "name": "_multi_store_your_name_text",
+      "value": "text",
+      "display": " Multi_store_your_name",
+      "deleted": null
+    },
+    {
+      "name": "agency_name_text",
+      "value": "text",
+      "display": "Agency Name",
+      "deleted": null
+    },
+    {
+      "name": "agency_person_in_contact_email_text",
+      "value": "text",
+      "display": "Agency_Person_in_Contact_Email",
+      "deleted": null
+    },
+    {
+      "name": "agency_person_in_contact_name_text",
+      "value": "text",
+      "display": "Agency_Person_in_Contact_Name",
+      "deleted": null
+    },
+    {
+      "name": "colleague_email_text",
+      "value": "text",
+      "display": "colleague_email",
+      "deleted": null
+    },
+    {
+      "name": "colleague_name_text",
+      "value": "text",
+      "display": "colleague_name",
+      "deleted": null
+    },
+    {
+      "name": "confirmed__boolean",
+      "value": "boolean",
+      "display": "confirmed?",
+      "deleted": null
+    },
+    {
+      "name": "consultant_email_text",
+      "value": "text",
+      "display": "Consultant Email",
+      "deleted": null
+    },
+    {
+      "name": "consultant_name_text",
+      "value": "text",
+      "display": "Consultant Name",
+      "deleted": null
+    },
+    {
+      "name": "current_user1_user",
+      "value": "user",
+      "display": "current_user",
+      "deleted": null
+    },
+    {
+      "name": "current_user_user",
+      "value": "user",
+      "display": "current_user - deleted",
+      "deleted": true
+    },
+    {
+      "name": "defines_text",
+      "value": "text",
+      "display": "Defines",
+      "deleted": null
+    },
+    {
+      "name": "existing_stores_text",
+      "value": "text",
+      "display": "existing_stores",
+      "deleted": null
+    },
+    {
+      "name": "feedback_text",
+      "value": "text",
+      "display": "feedback",
+      "deleted": null
+    },
+    {
+      "name": "multi_store_your_email_text",
+      "value": "text",
+      "display": "multi_store_your_email",
+      "deleted": null
+    },
+    {
+      "name": "other_your_email_text",
+      "value": "text",
+      "display": "Other_your_email",
+      "deleted": null
+    },
+    {
+      "name": "other_your_name_text",
+      "value": "text",
+      "display": "Other_your_name",
+      "deleted": null
+    },
+    {
+      "name": "rejected__boolean",
+      "value": "boolean",
+      "display": "rejected?",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "Shop",
+      "deleted": null
+    },
+    {
+      "name": "version_text",
+      "value": "text",
+      "display": "version",
+      "deleted": null
+    }
+  ],
+  "announcement": [
+    {
+      "name": "button_title_text",
+      "value": "text",
+      "display": "Button-title",
+      "deleted": null
+    },
+    {
+      "name": "buttonexternal__boolean",
+      "value": "boolean",
+      "display": "ButtonExternal?",
+      "deleted": null
+    },
+    {
+      "name": "buttonurl_text",
+      "value": "text",
+      "display": "ButtonUrl",
+      "deleted": null
+    },
+    {
+      "name": "categoryname_text",
+      "value": "text",
+      "display": "CategoryName",
+      "deleted": null
+    },
+    {
+      "name": "creatorimage_image",
+      "value": "image",
+      "display": "CreatorImage",
+      "deleted": null
+    },
+    {
+      "name": "creatorname_text",
+      "value": "text",
+      "display": "CreatorName",
+      "deleted": null
+    },
+    {
+      "name": "description_text",
+      "value": "text",
+      "display": "Description",
+      "deleted": null
+    },
+    {
+      "name": "title_text",
+      "value": "text",
+      "display": "Title",
+      "deleted": null
+    }
+  ],
+  "app_charge": [
+    {
+      "name": "charge_id_text",
+      "value": "text",
+      "display": "charge_id",
+      "deleted": null
+    },
+    {
+      "name": "charge_name_text",
+      "value": "text",
+      "display": "charge_name",
+      "deleted": null
+    },
+    {
+      "name": "createdoncoda_boolean",
+      "value": "boolean",
+      "display": "createdOnCoda - deleted",
+      "default_val": false,
+      "deleted": true
+    },
+    {
+      "name": "plan_id_text",
+      "value": "text",
+      "display": "plan-id - deleted",
+      "deleted": true
+    },
+    {
+      "name": "price_text",
+      "value": "text",
+      "display": "price",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    },
+    {
+      "name": "status_text",
+      "value": "text",
+      "display": "status",
+      "deleted": null
+    },
+    {
+      "name": "test_created_date_date",
+      "value": "date",
+      "display": "test_created_date - deleted",
+      "deleted": true
+    }
+  ],
+  "app_embed_settings": [
+    {
+      "name": "ga4_id_text",
+      "value": "text",
+      "display": "ga4_id",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    },
+    {
+      "name": "toggle_testuser_boolean",
+      "value": "boolean",
+      "display": "toggle_lightweight_User",
+      "deleted": null
+    }
+  ],
+  "auditor": [
+    {
+      "name": "domain_text",
+      "value": "text",
+      "display": "domain",
+      "deleted": null
+    },
+    {
+      "name": "fb_found_text",
+      "value": "text",
+      "display": "fb_found",
+      "deleted": null
+    },
+    {
+      "name": "fb_provided_text",
+      "value": "text",
+      "display": "fb_provided",
+      "deleted": null
+    },
+    {
+      "name": "fb_result_boolean",
+      "value": "boolean",
+      "display": "fb_result",
+      "deleted": null
+    },
+    {
+      "name": "ga4_found_text",
+      "value": "text",
+      "display": "ga4_found",
+      "deleted": null
+    },
+    {
+      "name": "ga4_provided_text",
+      "value": "text",
+      "display": "ga4_provided",
+      "deleted": null
+    },
+    {
+      "name": "ga4_result_boolean",
+      "value": "boolean",
+      "display": "ga4_result",
+      "deleted": null
+    },
+    {
+      "name": "google_ads_found_text",
+      "value": "text",
+      "display": "google_ads_found",
+      "deleted": null
+    },
+    {
+      "name": "google_ads_provided_text",
+      "value": "text",
+      "display": "google_ads_provided",
+      "deleted": null
+    },
+    {
+      "name": "google_ads_result_boolean",
+      "value": "boolean",
+      "display": "google_ads_result",
+      "deleted": null
+    },
+    {
+      "name": "gtm_found_text",
+      "value": "text",
+      "display": "gtm_found",
+      "deleted": null
+    },
+    {
+      "name": "gtm_provided_text",
+      "value": "text",
+      "display": "gtm_provided",
+      "deleted": null
+    },
+    {
+      "name": "gtm_result_boolean",
+      "value": "boolean",
+      "display": "gtm_result",
+      "deleted": null
+    },
+    {
+      "name": "history_text",
+      "value": "text",
+      "display": "history",
+      "deleted": null
+    },
+    {
+      "name": "ismanuelcheck__boolean",
+      "value": "boolean",
+      "display": "isManuelCheck?",
+      "deleted": null
+    },
+    {
+      "name": "json_api_apiconnector2_cmTOs_cnCWk",
+      "value": "api.apiconnector2.cmTOs.cnCWk",
+      "display": "json",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "Shop",
+      "deleted": null
+    }
+  ],
+  "auditor1": [
+    {
+      "name": "domain_text",
+      "value": "text",
+      "display": "domain",
+      "deleted": null
+    },
+    {
+      "name": "fb_found_text",
+      "value": "text",
+      "display": "fb_found",
+      "deleted": null
+    },
+    {
+      "name": "fb_provided_text",
+      "value": "text",
+      "display": "fb_provided",
+      "deleted": null
+    },
+    {
+      "name": "fb_result_boolean",
+      "value": "boolean",
+      "display": "fb_result",
+      "deleted": null
+    },
+    {
+      "name": "ga4_found_text",
+      "value": "text",
+      "display": "ga4_found",
+      "deleted": null
+    },
+    {
+      "name": "ga4_provided_text",
+      "value": "text",
+      "display": "ga4_provided",
+      "deleted": null
+    },
+    {
+      "name": "ga4_result_boolean",
+      "value": "boolean",
+      "display": "ga4_result",
+      "deleted": null
+    },
+    {
+      "name": "google_ads_found_text",
+      "value": "text",
+      "display": "google_ads_found",
+      "deleted": null
+    },
+    {
+      "name": "google_ads_provided_text",
+      "value": "text",
+      "display": "google_ads_provided",
+      "deleted": null
+    },
+    {
+      "name": "google_ads_result_boolean",
+      "value": "boolean",
+      "display": "google_ads_result",
+      "deleted": null
+    },
+    {
+      "name": "gtm_found_text",
+      "value": "text",
+      "display": "gtm_found",
+      "deleted": null
+    },
+    {
+      "name": "gtm_provided_text",
+      "value": "text",
+      "display": "gtm_provided",
+      "deleted": null
+    },
+    {
+      "name": "gtm_result_boolean",
+      "value": "boolean",
+      "display": "gtm_result",
+      "deleted": null
+    },
+    {
+      "name": "ismanuelcheck__boolean",
+      "value": "boolean",
+      "display": "isManuelCheck?",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "Shop",
+      "deleted": null
+    }
+  ],
+  "auditor2": [
+    {
+      "name": "domain_text",
+      "value": "text",
+      "display": "domain",
+      "deleted": null
+    },
+    {
+      "name": "fb_found_text",
+      "value": "text",
+      "display": "fb_found",
+      "deleted": null
+    },
+    {
+      "name": "fb_provided_text",
+      "value": "text",
+      "display": "fb_provided",
+      "deleted": null
+    },
+    {
+      "name": "fb_result_boolean",
+      "value": "boolean",
+      "display": "fb_result",
+      "deleted": null
+    },
+    {
+      "name": "ga4_found_text",
+      "value": "text",
+      "display": "ga4_found",
+      "deleted": null
+    },
+    {
+      "name": "ga4_provided_text",
+      "value": "text",
+      "display": "ga4_provided",
+      "deleted": null
+    },
+    {
+      "name": "ga4_result_boolean",
+      "value": "boolean",
+      "display": "ga4_result",
+      "deleted": null
+    },
+    {
+      "name": "google_ads_found_text",
+      "value": "text",
+      "display": "google_ads_found",
+      "deleted": null
+    },
+    {
+      "name": "google_ads_provided_text",
+      "value": "text",
+      "display": "google_ads_provided",
+      "deleted": null
+    },
+    {
+      "name": "google_ads_result_boolean",
+      "value": "boolean",
+      "display": "google_ads_result",
+      "deleted": null
+    },
+    {
+      "name": "gtm_found_text",
+      "value": "text",
+      "display": "gtm_found",
+      "deleted": null
+    },
+    {
+      "name": "gtm_provided_text",
+      "value": "text",
+      "display": "gtm_provided",
+      "deleted": null
+    },
+    {
+      "name": "gtm_result_boolean",
+      "value": "boolean",
+      "display": "gtm_result",
+      "deleted": null
+    },
+    {
+      "name": "history_text",
+      "value": "text",
+      "display": "history",
+      "deleted": null
+    },
+    {
+      "name": "ismanuelcheck__boolean",
+      "value": "boolean",
+      "display": "isManuelCheck?",
+      "deleted": null
+    },
+    {
+      "name": "json_api_apiconnector2_cmTOs_cnCWk",
+      "value": "api.apiconnector2.cmTOs.cnCWk",
+      "display": "json",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "Shop",
+      "deleted": null
+    }
+  ],
+  "cdn_scripts": [
+    {
+      "name": "bing_conv_id_text",
+      "value": "text",
+      "display": "bing_conv_id",
+      "deleted": null
+    },
+    {
+      "name": "bing_json_api_apiconnector2_cmTAg_cmUon",
+      "value": "api.apiconnector2.cmTAg.cmUon",
+      "display": "bing_json",
+      "deleted": null
+    },
+    {
+      "name": "cdn_link_bing_text",
+      "value": "text",
+      "display": "cdn_link_bing",
+      "deleted": null
+    },
+    {
+      "name": "cdn_link_ga4_text",
+      "value": "text",
+      "display": "cdn_link_GA4",
+      "deleted": null
+    },
+    {
+      "name": "cdn_link_text",
+      "value": "text",
+      "display": "cdn_link_GADS",
+      "deleted": null
+    },
+    {
+      "name": "conv_orderpage_sfy_script_id_text",
+      "value": "text",
+      "display": "conv_orderPage_sfy_script_id",
+      "deleted": true
+    },
+    {
+      "name": "ga4_id_text",
+      "value": "text",
+      "display": "ga4_id",
+      "deleted": null
+    },
+    {
+      "name": "ga4_script_json_api_apiconnector2_cmTAg_cmUon",
+      "value": "api.apiconnector2.cmTAg.cmUon",
+      "display": "ga4_script_json",
+      "deleted": null
+    },
+    {
+      "name": "gads_conv_sfy_script_json_api_apiconnector2_cmTAg_cmUon",
+      "value": "api.apiconnector2.cmTAg.cmUon",
+      "display": "gads_conv_sfy_script_json",
+      "deleted": null
+    },
+    {
+      "name": "gads_conv_sfy_script_json_list_list_api_apiconnector2_cmTAg_cmUon",
+      "value": "list.api.apiconnector2.cmTAg.cmUon",
+      "display": "sfy_script_json_list",
+      "deleted": false
+    },
+    {
+      "name": "gads_conversion_label_text",
+      "value": "text",
+      "display": "gads_conversion_label",
+      "deleted": null
+    },
+    {
+      "name": "gads_tag_id_text",
+      "value": "text",
+      "display": "gads_tag_id",
+      "deleted": null
+    },
+    {
+      "name": "lw_gads_up_address__boolean",
+      "value": "boolean",
+      "display": "lw_gads_up_address?",
+      "deleted": null
+    },
+    {
+      "name": "sfy_script_id_bing_text",
+      "value": "text",
+      "display": "sfy_script_id_bing",
+      "deleted": null
+    },
+    {
+      "name": "sfy_script_id_ga4_text",
+      "value": "text",
+      "display": "sfy_script_id_ga4",
+      "deleted": null
+    },
+    {
+      "name": "sfy_script_id_gads_text",
+      "value": "text",
+      "display": "sfy_script_id_gads",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    },
+    {
+      "name": "toggle_bing_script_sfy_boolean",
+      "value": "boolean",
+      "display": "toggle_bing_script_sfy",
+      "deleted": null
+    },
+    {
+      "name": "toggle_conv_script_sfy_boolean",
+      "value": "boolean",
+      "display": "toggle_conv_script_sfy",
+      "deleted": null
+    },
+    {
+      "name": "toggle_ga4_script_sfy_boolean",
+      "value": "boolean",
+      "display": "toggle_ga4_script_sfy",
+      "deleted": null
+    }
+  ],
+  "checklist": [
+    {
+      "name": "checklist_page_text",
+      "value": "text",
+      "display": "Checklist-page",
+      "deleted": null
+    },
+    {
+      "name": "checklist_title_text",
+      "value": "text",
+      "display": "Checklist-Title - deleted",
+      "deleted": true
+    },
+    {
+      "name": "done_for_you__boolean",
+      "value": "boolean",
+      "display": "done-for-you?",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "isgdpr__boolean",
+      "value": "boolean",
+      "display": "isGdpr?",
+      "deleted": null
+    },
+    {
+      "name": "tasks_custom_checklist_task",
+      "value": "custom.checklist_task",
+      "display": "tasks",
+      "deleted": null
+    }
+  ],
+  "checklist_task": [
+    {
+      "name": "task_description_text",
+      "value": "text",
+      "display": "Task-description",
+      "deleted": null
+    },
+    {
+      "name": "task_name_text",
+      "value": "text",
+      "display": "Task-name",
+      "deleted": null
+    }
+  ],
+  "company": [
+    {
+      "name": "listofusers_list_user",
+      "value": "list.user",
+      "display": "ListofUsers",
+      "deleted": null
+    },
+    {
+      "name": "shopify_security_state_text",
+      "value": "text",
+      "display": "Shopify Security State",
+      "deleted": null
+    },
+    {
+      "name": "shopify_shop_domain_text",
+      "value": "text",
+      "display": "Shopify Shop Domain",
+      "deleted": null
+    },
+    {
+      "name": "shopify_shop_name_text",
+      "value": "text",
+      "display": "Shopify Shop Name",
+      "deleted": null
+    },
+    {
+      "name": "shopify_token_text",
+      "value": "text",
+      "display": "Shopify_token",
+      "deleted": null
+    }
+  ],
+  "complatedtodolist": [
+    {
+      "name": "checklist_custom_checklist",
+      "value": "custom.checklist",
+      "display": "Checklist",
+      "deleted": null
+    },
+    {
+      "name": "checklist_task_custom_checklist_task",
+      "value": "custom.checklist_task",
+      "display": "checklist-task",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Checklist-Task - deleted",
+      "deleted": true
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    }
+  ],
+  "contentful_asets": [
+    {
+      "name": "file_name_text",
+      "value": "text",
+      "display": "File_name",
+      "deleted": null
+    },
+    {
+      "name": "fileurl_text",
+      "value": "text",
+      "display": "FileURL",
+      "deleted": null
+    },
+    {
+      "name": "sys_id_text",
+      "value": "text",
+      "display": "Sys_id",
+      "deleted": null
+    }
+  ],
+  "country_list": [
+    {
+      "name": "count_number",
+      "value": "number",
+      "display": "Count",
+      "deleted": null
+    },
+    {
+      "name": "country_code_text",
+      "value": "text",
+      "display": "Country_code",
+      "deleted": null
+    },
+    {
+      "name": "country_text",
+      "value": "text",
+      "display": "Country",
+      "deleted": null
+    }
+  ],
+  "currency_list": [
+    {
+      "name": "code_text",
+      "value": "text",
+      "display": "code",
+      "deleted": null
+    },
+    {
+      "name": "decimaldigits_number",
+      "value": "number",
+      "display": "decimalDigits",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "name",
+      "deleted": null
+    },
+    {
+      "name": "nameplural_text",
+      "value": "text",
+      "display": "namePlural",
+      "deleted": null
+    },
+    {
+      "name": "rounding_number",
+      "value": "number",
+      "display": "rounding",
+      "deleted": null
+    },
+    {
+      "name": "symbol_text",
+      "value": "text",
+      "display": "symbol",
+      "deleted": null
+    },
+    {
+      "name": "symbolnative_text",
+      "value": "text",
+      "display": "symbolNative",
+      "deleted": null
+    }
+  ],
+  "data_dummy_google_ads_performance": [
+    {
+      "name": "click_number",
+      "value": "number",
+      "display": "click",
+      "deleted": null
+    },
+    {
+      "name": "const_per_conversions_number",
+      "value": "number",
+      "display": "const per conversions",
+      "deleted": null
+    },
+    {
+      "name": "conversion_number",
+      "value": "number",
+      "display": "conversion",
+      "deleted": null
+    },
+    {
+      "name": "customers_number",
+      "value": "number",
+      "display": "customers",
+      "deleted": null
+    },
+    {
+      "name": "date_date",
+      "value": "date",
+      "display": "date",
+      "deleted": null
+    },
+    {
+      "name": "impressions_number",
+      "value": "number",
+      "display": "impressions",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "name - deleted",
+      "deleted": true
+    },
+    {
+      "name": "sales_number",
+      "value": "number",
+      "display": "Sales",
+      "deleted": null
+    }
+  ],
+  "dummy_device_clicks": [
+    {
+      "name": "category_n_text",
+      "value": "text",
+      "display": "category_n",
+      "deleted": null
+    },
+    {
+      "name": "category_o_option_gads_report_category",
+      "value": "option.gads_report_category",
+      "display": "category_o - deleted",
+      "deleted": true
+    },
+    {
+      "name": "category_text",
+      "value": "text",
+      "display": "category - deleted",
+      "deleted": true
+    }
+  ],
+  "dummy_device_clicks1": [
+    {
+      "name": "category_n_text",
+      "value": "text",
+      "display": "category_n",
+      "deleted": null
+    },
+    {
+      "name": "category_o_option_gads_report_category",
+      "value": "option.gads_report_category",
+      "display": "category_o - deleted",
+      "deleted": null
+    },
+    {
+      "name": "category_text",
+      "value": "text",
+      "display": "category - deleted",
+      "deleted": null
+    }
+  ],
+  "early_access": [
+    {
+      "name": "add_on_text",
+      "value": "text",
+      "display": "Add-on",
+      "deleted": null
+    },
+    {
+      "name": "user_user",
+      "value": "user",
+      "display": "User",
+      "deleted": null
+    },
+    {
+      "name": "what_s_your_use_case_text",
+      "value": "text",
+      "display": "What’s-your-use-case",
+      "deleted": null
+    },
+    {
+      "name": "why_do_you_need_order_processor_text",
+      "value": "text",
+      "display": "Why-do-you-need-Order-Processor",
+      "deleted": null
+    }
+  ],
+  "edit_my_setup": [
+    {
+      "name": "custom_slug_text",
+      "value": "text",
+      "display": "custom-slug",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    }
+  ],
+  "enhancement": [
+    {
+      "name": "custom_slug_text",
+      "value": "text",
+      "display": "custom-slug",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "name - deleted",
+      "deleted": true
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    }
+  ],
+  "faq": [
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "name",
+      "deleted": null
+    },
+    {
+      "name": "phaseid_text",
+      "value": "text",
+      "display": "phaseId",
+      "deleted": null
+    },
+    {
+      "name": "platformid_text",
+      "value": "text",
+      "display": "platformId",
+      "deleted": null
+    },
+    {
+      "name": "tag_boolean",
+      "value": "boolean",
+      "display": "tag",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "tagname_text",
+      "value": "text",
+      "display": "tagName",
+      "deleted": null
+    },
+    {
+      "name": "topic_text",
+      "value": "text",
+      "display": "tag - deleted",
+      "deleted": true
+    },
+    {
+      "name": "topicid_text",
+      "value": "text",
+      "display": "topicId",
+      "deleted": null
+    },
+    {
+      "name": "video_url_text",
+      "value": "text",
+      "display": "video-url",
+      "deleted": null
+    },
+    {
+      "name": "videobackground_image_file",
+      "value": "file",
+      "display": "videoBackground-Image",
+      "deleted": null
+    },
+    {
+      "name": "videobutton_name_text",
+      "value": "text",
+      "display": "videobutton-name",
+      "deleted": null
+    }
+  ],
+  "ga4_migration_info": [
+    {
+      "name": "docs_link_file",
+      "value": "file",
+      "display": "docs_link",
+      "deleted": null
+    },
+    {
+      "name": "form_filled__boolean",
+      "value": "boolean",
+      "display": "form_filled?",
+      "deleted": null
+    },
+    {
+      "name": "ga4_migration_completed_date_date",
+      "value": "date",
+      "display": "ga4_migration_completed_date",
+      "deleted": null
+    },
+    {
+      "name": "ga4_migration_pending_date_date",
+      "value": "date",
+      "display": "ga4_migration_pending_date",
+      "deleted": null
+    },
+    {
+      "name": "ga4_migration_status_option_ga4_migration_status",
+      "value": "option.ga4_migration_status",
+      "display": "ga4_migration_status",
+      "deleted": null
+    },
+    {
+      "name": "q_anythings_else_text",
+      "value": "text",
+      "display": "q_8_anythings_else",
+      "deleted": null
+    },
+    {
+      "name": "q_dont_find_text",
+      "value": "text",
+      "display": "q_6_dont_find",
+      "deleted": null
+    },
+    {
+      "name": "q_ua_report_list_list_option_ua_reports",
+      "value": "list.option.ua_reports",
+      "display": "q_5_ua_report_list",
+      "deleted": null
+    },
+    {
+      "name": "q_ua_usage_text",
+      "value": "text",
+      "display": "q_1_ua_usage",
+      "deleted": null
+    },
+    {
+      "name": "q_use_audiences_text",
+      "value": "text",
+      "display": "q_2_use_Audiences",
+      "deleted": null
+    },
+    {
+      "name": "q_use_filters_text",
+      "value": "text",
+      "display": "q_7_use_filters",
+      "deleted": null
+    },
+    {
+      "name": "q_use_goals_text",
+      "value": "text",
+      "display": "q_3_use_Goals",
+      "deleted": null
+    },
+    {
+      "name": "q_use_purchase_text",
+      "value": "text",
+      "display": "q_4_use_Purchase",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    }
+  ],
+  "ga4_referral_account_list": [
+    {
+      "name": "ga4_measurement_id_text",
+      "value": "text",
+      "display": "ga4-measurement-id",
+      "deleted": null
+    },
+    {
+      "name": "property_id_text",
+      "value": "text",
+      "display": "Property_id",
+      "deleted": null
+    },
+    {
+      "name": "referral_text",
+      "value": "text",
+      "display": "referral",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    },
+    {
+      "name": "value_text",
+      "value": "text",
+      "display": "value",
+      "deleted": null
+    }
+  ],
+  "ga_account_details": [
+    {
+      "name": "access_token_text",
+      "value": "text",
+      "display": "access_token",
+      "deleted": null
+    },
+    {
+      "name": "ga_account_id_text",
+      "value": "text",
+      "display": "ga-account-id",
+      "deleted": null
+    },
+    {
+      "name": "ga_details_list_list_custom_ga_details_list",
+      "value": "list.custom.ga_details_list",
+      "display": "GA-DataStreams-details-list",
+      "deleted": null
+    },
+    {
+      "name": "ga_mail_text",
+      "value": "text",
+      "display": "ga-mail",
+      "deleted": null
+    },
+    {
+      "name": "ga_parent_text",
+      "value": "text",
+      "display": "ga-parent - deleted",
+      "deleted": true
+    },
+    {
+      "name": "is_auth_with_google__boolean",
+      "value": "boolean",
+      "display": "is_auth_with_google?",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "ga-name",
+      "deleted": null
+    },
+    {
+      "name": "property_id_list_text",
+      "value": "list.text",
+      "display": "property_id",
+      "deleted": null
+    }
+  ],
+  "ga_account_details1": [
+    {
+      "name": "ga_account_id_text",
+      "value": "text",
+      "display": "ga-account-id",
+      "deleted": null
+    },
+    {
+      "name": "ga_details_list_list_custom_ga_details_list",
+      "value": "list.custom.ga_details_list",
+      "display": "GA-DataStreams-details-list",
+      "deleted": null
+    },
+    {
+      "name": "ga_mail_text",
+      "value": "text",
+      "display": "ga-mail",
+      "deleted": null
+    },
+    {
+      "name": "ga_parent_text",
+      "value": "text",
+      "display": "ga-parent - deleted",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "ga-name",
+      "deleted": null
+    }
+  ],
+  "ga_datastreams_details_list": [
+    {
+      "name": "defaulturi_text",
+      "value": "text",
+      "display": "ga-defaultUri",
+      "deleted": null
+    },
+    {
+      "name": "ga_account_id_text",
+      "value": "text",
+      "display": "ga-account-id",
+      "deleted": null
+    },
+    {
+      "name": "ga_measurementid_text",
+      "value": "text",
+      "display": "ga-measurementId",
+      "deleted": null
+    },
+    {
+      "name": "ga_property_displayname_text",
+      "value": "text",
+      "display": "ga-property-displayName",
+      "deleted": null
+    },
+    {
+      "name": "ga_property_id_text",
+      "value": "text",
+      "display": "ga-property-id",
+      "deleted": null
+    },
+    {
+      "name": "is_auth_with_google_boolean",
+      "value": "boolean",
+      "display": "is_auth_with_google",
+      "deleted": true
+    },
+    {
+      "name": "mail_text",
+      "value": "text",
+      "display": "mail",
+      "deleted": true
+    },
+    {
+      "name": "pathname_text",
+      "value": "text",
+      "display": "pathName",
+      "deleted": null
+    },
+    {
+      "name": "referral_text",
+      "value": "text",
+      "display": "referral",
+      "deleted": null
+    },
+    {
+      "name": "value_text",
+      "value": "text",
+      "display": "value",
+      "deleted": null
+    }
+  ],
+  "ga_details_list": [
+    {
+      "name": "defaulturi_text",
+      "value": "text",
+      "display": "ga-defaultUri",
+      "deleted": false
+    },
+    {
+      "name": "ga_account_id_text",
+      "value": "text",
+      "display": "ga-account-id",
+      "deleted": null
+    },
+    {
+      "name": "ga_measurementid_text",
+      "value": "text",
+      "display": "ga-measurementId",
+      "deleted": null
+    },
+    {
+      "name": "ga_property_displayname_text",
+      "value": "text",
+      "display": "ga-property-displayName",
+      "deleted": null
+    },
+    {
+      "name": "ga_property_id_text",
+      "value": "text",
+      "display": "ga-property-id",
+      "deleted": null
+    },
+    {
+      "name": "is_auth_with_google_boolean",
+      "value": "boolean",
+      "display": "is_auth_with_google",
+      "deleted": false
+    },
+    {
+      "name": "mail_text",
+      "value": "text",
+      "display": "mail",
+      "deleted": false
+    },
+    {
+      "name": "pathname_text",
+      "value": "text",
+      "display": "pathName",
+      "deleted": false
+    },
+    {
+      "name": "referral_text",
+      "value": "text",
+      "display": "referral - deleted",
+      "deleted": true
+    },
+    {
+      "name": "value_text",
+      "value": "text",
+      "display": "value - deleted",
+      "deleted": true
+    }
+  ],
+  "gdpr_options__oset_": [],
+  "geo_targets": [
+    {
+      "name": "canonical_name_text",
+      "value": "text",
+      "display": "Canonical Name",
+      "deleted": null
+    },
+    {
+      "name": "country_code_text",
+      "value": "text",
+      "display": "Country Code",
+      "deleted": null
+    },
+    {
+      "name": "criteria_id_text",
+      "value": "text",
+      "display": "Criteria ID",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "parent_id_number",
+      "value": "number",
+      "display": "Parent ID",
+      "deleted": null
+    },
+    {
+      "name": "status_text",
+      "value": "text",
+      "display": "Status",
+      "deleted": null
+    },
+    {
+      "name": "target_type_text",
+      "value": "text",
+      "display": "Target Type",
+      "deleted": null
+    }
+  ],
+  "google_ads_account": [
+    {
+      "name": "access_token_oat_id_text",
+      "value": "text",
+      "display": "access_token_oat_id",
+      "deleted": null
+    },
+    {
+      "name": "account_id_text",
+      "value": "text",
+      "display": "account_id",
+      "deleted": null
+    },
+    {
+      "name": "email_text",
+      "value": "text",
+      "display": "email",
+      "deleted": null
+    },
+    {
+      "name": "full_account_id_text",
+      "value": "text",
+      "display": "Full_account_id",
+      "deleted": null
+    },
+    {
+      "name": "json_api_apiconnector2_cmzjD_cnLBq",
+      "value": "api.apiconnector2.cmzjD.cnLBq",
+      "display": "localStorage_json",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    }
+  ],
+  "google_analytics_account": [
+    {
+      "name": "access_token_oat_id_text",
+      "value": "text",
+      "display": "access_token_oat_id",
+      "deleted": null
+    },
+    {
+      "name": "email_text",
+      "value": "text",
+      "display": "email",
+      "deleted": null
+    },
+    {
+      "name": "full_ga_property_text",
+      "value": "text",
+      "display": "full_ga_property",
+      "deleted": null
+    },
+    {
+      "name": "full_name_id_text",
+      "value": "text",
+      "display": "full_ga_account",
+      "deleted": null
+    },
+    {
+      "name": "ga4_account_text",
+      "value": "text",
+      "display": "ga4_account",
+      "deleted": null
+    },
+    {
+      "name": "ga4_measurement_id_text",
+      "value": "text",
+      "display": "ga4_measurement_id",
+      "deleted": null
+    },
+    {
+      "name": "ga4_property_text",
+      "value": "text",
+      "display": "ga4_property",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    }
+  ],
+  "google_analytics_account1": [
+    {
+      "name": "access_token_oat_id_text",
+      "value": "text",
+      "display": "access_token",
+      "deleted": null
+    },
+    {
+      "name": "datastream_name_text",
+      "value": "text",
+      "display": "dataStream name",
+      "deleted": null
+    },
+    {
+      "name": "default_uri_text",
+      "value": "text",
+      "display": "default_uri",
+      "deleted": null
+    },
+    {
+      "name": "email_text",
+      "value": "text",
+      "display": "email",
+      "deleted": null
+    },
+    {
+      "name": "full_ga_property_text",
+      "value": "text",
+      "display": "full_ga_property",
+      "deleted": null
+    },
+    {
+      "name": "full_name_id_text",
+      "value": "text",
+      "display": "full_ga_account",
+      "deleted": null
+    },
+    {
+      "name": "ga4_account_text",
+      "value": "text",
+      "display": "ga4_account",
+      "deleted": null
+    },
+    {
+      "name": "ga4_api_secret_text",
+      "value": "text",
+      "display": "ga4_api_secret - deleted",
+      "deleted": true
+    },
+    {
+      "name": "ga4_measurement_id_text",
+      "value": "text",
+      "display": "ga4_measurement_id",
+      "deleted": null
+    },
+    {
+      "name": "ga4_property_text",
+      "value": "text",
+      "display": "ga4_property",
+      "deleted": null
+    },
+    {
+      "name": "refresh_token_text",
+      "value": "text",
+      "display": "refresh_token",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    }
+  ],
+  "google_info": [
+    {
+      "name": "g_access_token_text",
+      "value": "text",
+      "display": "g_access_token",
+      "deleted": null
+    },
+    {
+      "name": "g_expiry_text",
+      "value": "text",
+      "display": "g_expiry",
+      "deleted": null
+    },
+    {
+      "name": "g_mail_text",
+      "value": "text",
+      "display": "g_mail",
+      "deleted": null
+    },
+    {
+      "name": "g_refresh_token_text",
+      "value": "text",
+      "display": "g_refresh_token",
+      "deleted": null
+    },
+    {
+      "name": "g_token_type_text",
+      "value": "text",
+      "display": "g_token_type",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    }
+  ],
+  "googleads_access": [
+    {
+      "name": "values_list_text",
+      "value": "list.text",
+      "display": "values",
+      "deleted": null
+    }
+  ],
+  "gtm_account_access": [
+    {
+      "name": "accountid_text",
+      "value": "text",
+      "display": "accountId",
+      "deleted": null
+    },
+    {
+      "name": "conaccess_containerid_text",
+      "value": "text",
+      "display": "conaccess_containerId - deleted",
+      "deleted": true
+    },
+    {
+      "name": "conaccess_containeridlist_list_text",
+      "value": "list.text",
+      "display": "conaccess_containerId",
+      "deleted": null
+    },
+    {
+      "name": "conacess_permission_text",
+      "value": "text",
+      "display": "conacess_permission - deleted",
+      "deleted": true
+    },
+    {
+      "name": "conacess_permissionlist_list_text",
+      "value": "list.text",
+      "display": "conacess_permissionlist",
+      "deleted": null
+    },
+    {
+      "name": "emailaddress_text",
+      "value": "text",
+      "display": "emailAddress",
+      "deleted": null
+    },
+    {
+      "name": "path_text",
+      "value": "text",
+      "display": "path",
+      "deleted": null
+    },
+    {
+      "name": "permission_text",
+      "value": "text",
+      "display": "permission",
+      "deleted": null
+    }
+  ],
+  "gtm_account_list": [
+    {
+      "name": "get_gtm_list1_api_apiconnector2_cmqfT0_cmqiT0",
+      "value": "api.apiconnector2.cmqfT0.cmqiT0",
+      "display": "get-gtm-list1 - deleted",
+      "deleted": true
+    },
+    {
+      "name": "gtm_list_1_api_apiconnector2_cmqfT0_cmqiT0_result_account",
+      "value": "api.apiconnector2.cmqfT0.cmqiT0.result.account",
+      "display": "gtm-list-1 - deleted",
+      "deleted": true
+    },
+    {
+      "name": "gtm_list_1_list_api_apiconnector2_cmqfT0_cmqiT0",
+      "value": "list.api.apiconnector2.cmqfT0.cmqiT0",
+      "display": "gtm-list-1 - deleted",
+      "deleted": true
+    },
+    {
+      "name": "gtm_list_1_list_api_apiconnector2_cmqfT0_cmqiT0_result_account",
+      "value": "list.api.apiconnector2.cmqfT0.cmqiT0.result.account",
+      "display": "gtm-list-1 - deleted",
+      "deleted": true
+    }
+  ],
+  "gtm_gtm_details": [
+    {
+      "name": "account_id_text",
+      "value": "text",
+      "display": "account_id",
+      "deleted": null
+    },
+    {
+      "name": "container_id_text",
+      "value": "text",
+      "display": "container_id",
+      "deleted": null
+    },
+    {
+      "name": "gtm_id_text",
+      "value": "text",
+      "display": "gtm-id",
+      "deleted": null
+    },
+    {
+      "name": "mail_text",
+      "value": "text",
+      "display": "mail",
+      "deleted": null
+    },
+    {
+      "name": "permission_text",
+      "value": "text",
+      "display": "permission",
+      "deleted": null
+    }
+  ],
+  "gtm_values": [
+    {
+      "name": "accountid_text",
+      "value": "text",
+      "display": "accountId",
+      "deleted": null
+    },
+    {
+      "name": "container_id_text",
+      "value": "text",
+      "display": "container-id - deleted",
+      "deleted": true
+    },
+    {
+      "name": "gtm_account_access_list_custom_gtm_account_access",
+      "value": "list.custom.gtm_account_access",
+      "display": "gtm-account-access - deleted",
+      "deleted": true
+    },
+    {
+      "name": "gtm_details_list_list_custom_gtm_gtm_details",
+      "value": "list.custom.gtm_gtm_details",
+      "display": "gtm-details-list",
+      "deleted": null
+    },
+    {
+      "name": "gtm_id_list_text",
+      "value": "list.text",
+      "display": "gtm-id - deleted",
+      "deleted": true
+    },
+    {
+      "name": "gtm_id_text",
+      "value": "text",
+      "display": "gtm-id - deleted",
+      "deleted": true
+    },
+    {
+      "name": "mail_text",
+      "value": "text",
+      "display": "mail",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "name",
+      "deleted": null
+    },
+    {
+      "name": "path_text",
+      "value": "text",
+      "display": "path",
+      "deleted": null
+    }
+  ],
+  "houses": [
+    {
+      "name": "address__geo__geographic_address",
+      "value": "geographic_address",
+      "display": "Address (geo) - deleted",
+      "deleted": true
+    },
+    {
+      "name": "age_intervals_text",
+      "value": "text",
+      "display": "Age intervals",
+      "deleted": null
+    },
+    {
+      "name": "between_0_and_1_number",
+      "value": "number",
+      "display": "Between 0 and 1",
+      "deleted": null
+    },
+    {
+      "name": "count_number",
+      "value": "number",
+      "display": "Count",
+      "deleted": null
+    },
+    {
+      "name": "customer_number",
+      "value": "number",
+      "display": "Customer",
+      "deleted": null
+    },
+    {
+      "name": "customers_amount_number",
+      "value": "number",
+      "display": "Customers amount",
+      "deleted": null
+    },
+    {
+      "name": "date__day__date",
+      "value": "date",
+      "display": "Date (day)",
+      "deleted": null
+    },
+    {
+      "name": "date_date",
+      "value": "date",
+      "display": "Date",
+      "deleted": null
+    },
+    {
+      "name": "float_number",
+      "value": "number",
+      "display": "Float",
+      "deleted": null
+    },
+    {
+      "name": "irregular_count_number",
+      "value": "number",
+      "display": "Irregular count",
+      "deleted": null
+    },
+    {
+      "name": "long_text_text",
+      "value": "text",
+      "display": "Long text",
+      "deleted": null
+    },
+    {
+      "name": "maximum_number",
+      "value": "number",
+      "display": "Maximum",
+      "deleted": null
+    },
+    {
+      "name": "median_number",
+      "value": "number",
+      "display": "Median",
+      "deleted": null
+    },
+    {
+      "name": "minimum_number",
+      "value": "number",
+      "display": "Minimum",
+      "deleted": null
+    },
+    {
+      "name": "negative_value_number",
+      "value": "number",
+      "display": "Negative value",
+      "deleted": null
+    },
+    {
+      "name": "number__1_n__number",
+      "value": "number",
+      "display": "Number (1-n)",
+      "deleted": null
+    },
+    {
+      "name": "number_of_houses_number",
+      "value": "number",
+      "display": "Number",
+      "deleted": null
+    },
+    {
+      "name": "percentage2_number",
+      "value": "number",
+      "display": "Visitors",
+      "deleted": null
+    },
+    {
+      "name": "percentage_customers_number",
+      "value": "number",
+      "display": "Returning customers",
+      "deleted": null
+    },
+    {
+      "name": "percentage_number",
+      "value": "number",
+      "display": "Percentage",
+      "deleted": null
+    },
+    {
+      "name": "percentages_number",
+      "value": "number",
+      "display": "Sales",
+      "deleted": null
+    },
+    {
+      "name": "q1_number",
+      "value": "number",
+      "display": "Q1",
+      "deleted": null
+    },
+    {
+      "name": "q3_number",
+      "value": "number",
+      "display": "Q3",
+      "deleted": null
+    },
+    {
+      "name": "seconds_number",
+      "value": "number",
+      "display": "Seconds",
+      "deleted": null
+    },
+    {
+      "name": "w___negative_number",
+      "value": "number",
+      "display": "W// negative",
+      "deleted": null
+    },
+    {
+      "name": "w__empty_number",
+      "value": "number",
+      "display": "w// Empty",
+      "deleted": null
+    },
+    {
+      "name": "year__date__date",
+      "value": "date",
+      "display": "Year (date)",
+      "deleted": null
+    },
+    {
+      "name": "year__number__number",
+      "value": "number",
+      "display": "Year",
+      "deleted": null
+    },
+    {
+      "name": "year_number",
+      "value": "number",
+      "display": "Year - deleted",
+      "deleted": null
+    },
+    {
+      "name": "year_text",
+      "value": "text",
+      "display": "Year (text)",
+      "deleted": null
+    }
+  ],
+  "info_icons": [
+    {
+      "name": "description_text",
+      "value": "text",
+      "display": "description",
+      "deleted": null
+    },
+    {
+      "name": "title_text",
+      "value": "text",
+      "display": "Title",
+      "deleted": null
+    }
+  ],
+  "infotoken": [
+    {
+      "name": "token_text",
+      "value": "text",
+      "display": "token",
+      "deleted": null
+    }
+  ],
+  "infotoken1": [
+    {
+      "name": "email_text",
+      "value": "text",
+      "display": "email",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "name",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    },
+    {
+      "name": "sub_text",
+      "value": "text",
+      "display": "sub",
+      "deleted": null
+    }
+  ],
+  "logs": [
+    {
+      "name": "current_user_user",
+      "value": "user",
+      "display": "current_user",
+      "deleted": null
+    },
+    {
+      "name": "header__http_x_shopify_shop_api_call_limit_text",
+      "value": "text",
+      "display": "header_ HTTP_X_SHOPIFY_SHOP_API_CALL_LIMIT",
+      "deleted": null
+    },
+    {
+      "name": "header__nel_text",
+      "value": "text",
+      "display": "header_ NEL",
+      "deleted": null
+    },
+    {
+      "name": "header__server_text",
+      "value": "text",
+      "display": "header_ Server",
+      "deleted": null
+    },
+    {
+      "name": "header_alt_svc_text",
+      "value": "text",
+      "display": "header_alt-svc",
+      "deleted": null
+    },
+    {
+      "name": "header_cf_cache_status_text",
+      "value": "text",
+      "display": "header_CF-Cache-Status",
+      "deleted": null
+    },
+    {
+      "name": "header_cf_ray_text",
+      "value": "text",
+      "display": "header_CF-RAY",
+      "deleted": null
+    },
+    {
+      "name": "header_connection_text",
+      "value": "text",
+      "display": "header_connection",
+      "deleted": null
+    },
+    {
+      "name": "header_content_security_policy_text",
+      "value": "text",
+      "display": "header_Content-Security-Policy",
+      "deleted": null
+    },
+    {
+      "name": "header_content_type_text",
+      "value": "text",
+      "display": "header_content_type",
+      "deleted": null
+    },
+    {
+      "name": "header_date_text",
+      "value": "text",
+      "display": "header_date",
+      "deleted": null
+    },
+    {
+      "name": "header_referrer_policy_text",
+      "value": "text",
+      "display": "header_Referrer-Policy",
+      "deleted": null
+    },
+    {
+      "name": "header_report_to_text",
+      "value": "text",
+      "display": "header_Report-To",
+      "deleted": null
+    },
+    {
+      "name": "header_server_timing_text",
+      "value": "text",
+      "display": "header_Server-Timing",
+      "deleted": null
+    },
+    {
+      "name": "header_strict_transport_security_text",
+      "value": "text",
+      "display": "header_Strict-Transport-Security",
+      "deleted": null
+    },
+    {
+      "name": "header_transfer_encoding_text",
+      "value": "text",
+      "display": "header_transfer_encoding",
+      "deleted": null
+    },
+    {
+      "name": "header_x_content_type_options_text",
+      "value": "text",
+      "display": "header_X-Content-Type-Options",
+      "deleted": null
+    },
+    {
+      "name": "header_x_dc_text",
+      "value": "text",
+      "display": "header_X-Dc",
+      "deleted": null
+    },
+    {
+      "name": "header_x_download_options_text",
+      "value": "text",
+      "display": "header_X-Download-Options",
+      "deleted": null
+    },
+    {
+      "name": "header_x_frame_options_text",
+      "value": "text",
+      "display": "header_X-Frame-Options",
+      "deleted": null
+    },
+    {
+      "name": "header_x_permitted_cross_domain_policies_text",
+      "value": "text",
+      "display": "header_X-Permitted-Cross-Domain-Policies",
+      "deleted": null
+    },
+    {
+      "name": "header_x_request_id_text",
+      "value": "text",
+      "display": "header_X-Request-ID",
+      "deleted": null
+    },
+    {
+      "name": "header_x_shardid_text",
+      "value": "text",
+      "display": "header_X-ShardId",
+      "deleted": null
+    },
+    {
+      "name": "header_x_shopid_text",
+      "value": "text",
+      "display": "header_X-ShopId",
+      "deleted": null
+    },
+    {
+      "name": "header_x_shopify_api_version_text",
+      "value": "text",
+      "display": "header_X-Shopify-API-Version",
+      "deleted": null
+    },
+    {
+      "name": "header_x_shopify_shop_api_call_limit_text",
+      "value": "text",
+      "display": "header_X-Shopify-Shop-Api-Call-Limit",
+      "deleted": null
+    },
+    {
+      "name": "header_x_shopify_stage_text",
+      "value": "text",
+      "display": "header_X-Shopify-Stage",
+      "deleted": null
+    },
+    {
+      "name": "header_x_sorting_hat_podid_text",
+      "value": "text",
+      "display": "header_X-Sorting-Hat-PodId",
+      "deleted": null
+    },
+    {
+      "name": "header_x_sorting_hat_shopid_text",
+      "value": "text",
+      "display": "header_X-Sorting-Hat-ShopId",
+      "deleted": null
+    },
+    {
+      "name": "header_x_stats_apiclientid_text",
+      "value": "text",
+      "display": "header_X-Stats-ApiClientId",
+      "deleted": null
+    },
+    {
+      "name": "header_x_stats_apipermissionid_text",
+      "value": "text",
+      "display": "header_X-Stats-ApiPermissionId",
+      "deleted": null
+    },
+    {
+      "name": "header_x_stats_userid_text",
+      "value": "text",
+      "display": "header_X-Stats-UserId",
+      "deleted": null
+    },
+    {
+      "name": "header_x_xss_protection_text",
+      "value": "text",
+      "display": "header_X-XSS-Protection",
+      "deleted": null
+    },
+    {
+      "name": "hedaer_location_text",
+      "value": "text",
+      "display": "hedaer_Location",
+      "deleted": null
+    },
+    {
+      "name": "logs_body_text",
+      "value": "text",
+      "display": "logs_body",
+      "deleted": null
+    },
+    {
+      "name": "logs_header_text",
+      "value": "text",
+      "display": "logs_header",
+      "deleted": null
+    },
+    {
+      "name": "logs_title_text",
+      "value": "text",
+      "display": "logs_title",
+      "deleted": null
+    },
+    {
+      "name": "page_text",
+      "value": "text",
+      "display": "page",
+      "deleted": null
+    },
+    {
+      "name": "returned_an_error_boolean",
+      "value": "boolean",
+      "display": "returned_an_error",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    }
+  ],
+  "member": [
+    {
+      "name": "email_text",
+      "value": "text",
+      "display": "Email",
+      "deleted": null
+    },
+    {
+      "name": "role_option_role",
+      "value": "option.role",
+      "display": "Role",
+      "deleted": null
+    }
+  ],
+  "oldstores": [
+    {
+      "name": "charge_date_date",
+      "value": "date",
+      "display": "charge_date",
+      "deleted": null
+    },
+    {
+      "name": "charge_id_text",
+      "value": "text",
+      "display": "charge_id",
+      "deleted": null
+    },
+    {
+      "name": "email_text",
+      "value": "text",
+      "display": "email",
+      "deleted": null
+    },
+    {
+      "name": "id_text",
+      "value": "text",
+      "display": "id",
+      "deleted": null
+    },
+    {
+      "name": "is_steps_completed_boolean",
+      "value": "boolean",
+      "display": "is_steps_completed",
+      "deleted": null
+    },
+    {
+      "name": "shopify_domain_text",
+      "value": "text",
+      "display": "shopify_domain",
+      "deleted": null
+    },
+    {
+      "name": "shopify_token_text",
+      "value": "text",
+      "display": "shopify_token",
+      "deleted": null
+    },
+    {
+      "name": "zendesk_id_text",
+      "value": "text",
+      "display": "zendesk_id",
+      "deleted": null
+    }
+  ],
+  "order_processor": [
+    {
+      "name": "ga4_api_secret_text",
+      "value": "text",
+      "display": "GA4_Api_secret",
+      "deleted": null
+    },
+    {
+      "name": "ga4_measurement_id_text",
+      "value": "text",
+      "display": "GA4_measurement_id",
+      "deleted": null
+    },
+    {
+      "name": "gads_conversion_id_text",
+      "value": "text",
+      "display": "Gads_conversion_id",
+      "deleted": null
+    },
+    {
+      "name": "gads_conversion_label_text",
+      "value": "text",
+      "display": "Gads_conversion_label",
+      "deleted": null
+    },
+    {
+      "name": "request_email__boolean",
+      "value": "boolean",
+      "display": "Request_Email?",
+      "deleted": null
+    },
+    {
+      "name": "request_names__boolean",
+      "value": "boolean",
+      "display": "Request_Names?",
+      "deleted": null
+    },
+    {
+      "name": "request_phonenumber__boolean",
+      "value": "boolean",
+      "display": "Request_PhoneNumber?",
+      "deleted": null
+    },
+    {
+      "name": "request_surname__boolean",
+      "value": "boolean",
+      "display": "Request_Surname?",
+      "deleted": null
+    },
+    {
+      "name": "toggle_email_access_boolean",
+      "value": "boolean",
+      "display": "toggle_email_access",
+      "deleted": null
+    },
+    {
+      "name": "toggle_ga4_boolean",
+      "value": "boolean",
+      "display": "toggle_ga4",
+      "deleted": null
+    },
+    {
+      "name": "toggle_gads_boolean",
+      "value": "boolean",
+      "display": "toggle_gads",
+      "deleted": null
+    },
+    {
+      "name": "toggle_name_access_boolean",
+      "value": "boolean",
+      "display": "toggle_name_access",
+      "deleted": null
+    },
+    {
+      "name": "toggle_phone_access_boolean",
+      "value": "boolean",
+      "display": "toggle_phone_access",
+      "deleted": null
+    },
+    {
+      "name": "toggle_surnames_access_boolean",
+      "value": "boolean",
+      "display": "toggle_surnames_access",
+      "deleted": null
+    }
+  ],
+  "order_processor_payments": [
+    {
+      "name": "canceled_on_date",
+      "value": "date",
+      "display": "canceled_on",
+      "deleted": null
+    },
+    {
+      "name": "canceled_on_option_date",
+      "value": "option.date",
+      "display": "canceled_on - deleted",
+      "deleted": true
+    },
+    {
+      "name": "charge_id_text",
+      "value": "text",
+      "display": "charge_id",
+      "deleted": null
+    },
+    {
+      "name": "finished_at_date",
+      "value": "date",
+      "display": "finished_at",
+      "deleted": null
+    },
+    {
+      "name": "finished_at_option_date",
+      "value": "option.date",
+      "display": "finished_at - deleted",
+      "deleted": true
+    },
+    {
+      "name": "plan_name_text",
+      "value": "text",
+      "display": "Plan_name",
+      "deleted": null
+    },
+    {
+      "name": "price_text",
+      "value": "text",
+      "display": "Price",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    },
+    {
+      "name": "started_at_date",
+      "value": "date",
+      "display": "started_at",
+      "deleted": null
+    },
+    {
+      "name": "started_at_option_date",
+      "value": "option.date",
+      "display": "started_at - deleted",
+      "deleted": true
+    },
+    {
+      "name": "status_text",
+      "value": "text",
+      "display": "status",
+      "deleted": null
+    }
+  ],
+  "pipedrive_organization": [
+    {
+      "name": "org_id_number",
+      "value": "number",
+      "display": "org_id - deleted",
+      "deleted": true
+    },
+    {
+      "name": "org_id_text",
+      "value": "text",
+      "display": "org_id",
+      "deleted": null
+    },
+    {
+      "name": "store_url_text",
+      "value": "text",
+      "display": "store_url",
+      "deleted": null
+    }
+  ],
+  "public_ga4_list": [
+    {
+      "name": "access_token_text",
+      "value": "text",
+      "display": "access_token",
+      "deleted": null
+    },
+    {
+      "name": "ga4_account_text",
+      "value": "text",
+      "display": "ga4_account",
+      "deleted": null
+    },
+    {
+      "name": "ga4_measurement_id_text",
+      "value": "text",
+      "display": "ga4_measurement_id",
+      "deleted": null
+    },
+    {
+      "name": "ga4_property_text",
+      "value": "text",
+      "display": "ga4_property",
+      "deleted": null
+    },
+    {
+      "name": "public_ga4_completed__boolean",
+      "value": "boolean",
+      "display": "public_ga4_completed?",
+      "deleted": null
+    },
+    {
+      "name": "public_ga4_step_number",
+      "value": "number",
+      "display": "public_ga4_step",
+      "deleted": null
+    }
+  ],
+  "shop_details_for_team": [
+    {
+      "name": "currencies_list_text",
+      "value": "list.text",
+      "display": "currencies",
+      "deleted": null
+    },
+    {
+      "name": "currency_code_text",
+      "value": "text",
+      "display": "currencies - deleted",
+      "deleted": true
+    },
+    {
+      "name": "days_text",
+      "value": "text",
+      "display": "days - deleted",
+      "deleted": true
+    },
+    {
+      "name": "domain_text",
+      "value": "text",
+      "display": "domain",
+      "deleted": null
+    },
+    {
+      "name": "ga4_measurement_id_text",
+      "value": "text",
+      "display": "Ga4_measurement_id",
+      "deleted": null
+    },
+    {
+      "name": "ga4_revenue_currency_text",
+      "value": "text",
+      "display": "ga4_revenue_currency",
+      "deleted": null
+    },
+    {
+      "name": "ga4_revenue_first_date_text",
+      "value": "text",
+      "display": "ga4_revenue_first_date",
+      "deleted": null
+    },
+    {
+      "name": "ga4_revenue_last_date_text",
+      "value": "text",
+      "display": "ga4_revenue_last_date",
+      "deleted": null
+    },
+    {
+      "name": "ga4_revenue_text",
+      "value": "text",
+      "display": "ga4_revenue",
+      "deleted": null
+    },
+    {
+      "name": "gads_id_text",
+      "value": "text",
+      "display": "Gads_id",
+      "deleted": null
+    },
+    {
+      "name": "isga4_active__boolean",
+      "value": "boolean",
+      "display": "isGA4_active?",
+      "deleted": null
+    },
+    {
+      "name": "isgoogle_ads_active__boolean",
+      "value": "boolean",
+      "display": "isGoogle_Ads_Active?",
+      "deleted": null
+    },
+    {
+      "name": "revenue3days_text",
+      "value": "text",
+      "display": "sfy_revenue",
+      "deleted": null
+    },
+    {
+      "name": "revenue_first_date_new_date",
+      "value": "date",
+      "display": "revenue_first_date_new - deleted",
+      "deleted": true
+    },
+    {
+      "name": "revenue_first_date_text",
+      "value": "text",
+      "display": "sfy_revenue_first_date",
+      "deleted": null
+    },
+    {
+      "name": "revenue_last_date_text",
+      "value": "text",
+      "display": "sfy_revenue_last_date",
+      "deleted": null
+    },
+    {
+      "name": "shop_created_date_date",
+      "value": "date",
+      "display": "shop created date - deleted",
+      "deleted": true
+    },
+    {
+      "name": "shop_created_date_text",
+      "value": "text",
+      "display": "shop created date",
+      "deleted": null
+    },
+    {
+      "name": "shop_url_text",
+      "value": "text",
+      "display": "Shop_url",
+      "deleted": null
+    },
+    {
+      "name": "shopify_plan_text",
+      "value": "text",
+      "display": "shopify_plan",
+      "deleted": null
+    }
+  ],
+  "shop_product_count": [
+    {
+      "name": "product_count_number",
+      "value": "number",
+      "display": "product_count",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    }
+  ],
+  "statements": [
+    {
+      "name": "answer_text",
+      "value": "text",
+      "display": "Answer - deleted",
+      "deleted": true
+    },
+    {
+      "name": "checklist___onboarding_number",
+      "value": "number",
+      "display": "Checklist | Onboarding",
+      "default_val": 0,
+      "deleted": null
+    },
+    {
+      "name": "checklist___setup_number",
+      "value": "number",
+      "display": "Checklist | Setup",
+      "default_val": 0,
+      "deleted": null
+    },
+    {
+      "name": "codarowid_text",
+      "value": "text",
+      "display": "codaROWID",
+      "deleted": null
+    },
+    {
+      "name": "ga4_migration_option_ua___ga4_migration_add_on",
+      "value": "option.ua___ga4_migration_add_on",
+      "display": "ga4_migration",
+      "deleted": null
+    },
+    {
+      "name": "gads__begin_checkout_tracking_toggle_open__boolean",
+      "value": "boolean",
+      "display": "GAds_ Begin_Checkout_Tracking_toggle_open?",
+      "deleted": null
+    },
+    {
+      "name": "gads__product_detail_tracking_toggle_open__boolean",
+      "value": "boolean",
+      "display": "GAds_ Product_detail_tracking_toggle_open?",
+      "deleted": null
+    },
+    {
+      "name": "gads_add_to_cart_toggle_open__boolean",
+      "value": "boolean",
+      "display": "GAds-Add_to_cart_toggle_open?",
+      "deleted": null
+    },
+    {
+      "name": "gads_auto_api_sent__boolean",
+      "value": "boolean",
+      "display": "GAds-Auto-API-Sent?",
+      "deleted": null
+    },
+    {
+      "name": "gads_purchase_conv_open__boolean",
+      "value": "boolean",
+      "display": "GAds-Purchase-conv-toggle-open?",
+      "deleted": null
+    },
+    {
+      "name": "phase_text",
+      "value": "text",
+      "display": "Phase - deleted",
+      "deleted": true
+    },
+    {
+      "name": "q_consent_management__new__text",
+      "value": "text",
+      "display": "Q-Consent-Management (NEW)",
+      "deleted": null
+    },
+    {
+      "name": "q_conversion_tracking_text",
+      "value": "text",
+      "display": "Q-Conversion-Tracking (NEW)",
+      "deleted": null
+    },
+    {
+      "name": "q_fb_openended_text",
+      "value": "text",
+      "display": "Q-FB-OpenEnded",
+      "deleted": null
+    },
+    {
+      "name": "q_fb_skip__boolean",
+      "value": "boolean",
+      "display": "Q-FB-Skip?",
+      "deleted": null
+    },
+    {
+      "name": "q_fb_st_1_text",
+      "value": "text",
+      "display": "Q-FB-ST-1",
+      "deleted": null
+    },
+    {
+      "name": "q_fb_st_2_text",
+      "value": "text",
+      "display": "Q-FB-ST-2",
+      "deleted": null
+    },
+    {
+      "name": "q_fb_st_3_text",
+      "value": "text",
+      "display": "Q-FB-ST-3",
+      "deleted": null
+    },
+    {
+      "name": "q_ga4_manuelorautomatic_option_manuel_automatic",
+      "value": "option.manuel_automatic",
+      "display": "Q-GA4-ManuelORAutomatic",
+      "deleted": null
+    },
+    {
+      "name": "q_ga_how_offen_text",
+      "value": "text",
+      "display": "Q-GA-How-offen",
+      "deleted": null
+    },
+    {
+      "name": "q_ga_status_text",
+      "value": "text",
+      "display": "Q-GA-Status",
+      "deleted": null
+    },
+    {
+      "name": "q_ga_ua_status_text",
+      "value": "text",
+      "display": "Q-GA-UA-Status",
+      "deleted": null
+    },
+    {
+      "name": "q_gads_analyizfyga_shop_1_text",
+      "value": "text",
+      "display": "Q-Gads-AnalyizfyGA-Shop-1",
+      "deleted": null
+    },
+    {
+      "name": "q_gads_manuelorautomatic__text",
+      "value": "text",
+      "display": "Q-GAds-ManuelORAutomatic?",
+      "deleted": null
+    },
+    {
+      "name": "q_gads_purchase_2_text",
+      "value": "text",
+      "display": "Q-Gads-purchase-2",
+      "deleted": null
+    },
+    {
+      "name": "q_gtm_code_added_text",
+      "value": "text",
+      "display": "Q-GTM-code-added",
+      "deleted": null
+    },
+    {
+      "name": "q_gtm_status_2_text",
+      "value": "text",
+      "display": "Q-GTM-status-2",
+      "deleted": null
+    },
+    {
+      "name": "q_help_track_text",
+      "value": "text",
+      "display": "Q-Help-Track (NEW)",
+      "deleted": null
+    },
+    {
+      "name": "q_how_familiar_gtm_1_text",
+      "value": "text",
+      "display": "Q-How-familiar-gtm-1",
+      "deleted": null
+    },
+    {
+      "name": "q_setup_step_1_gdprornot_text",
+      "value": "text",
+      "display": "Q-Setup-step-1-gdprORnot - deleted",
+      "deleted": true
+    },
+    {
+      "name": "question_text",
+      "value": "text",
+      "display": "Question - deleted",
+      "deleted": true
+    },
+    {
+      "name": "setup_step_1_current_step_number",
+      "value": "number",
+      "display": "setup-step-1-current-step",
+      "default_val": 1,
+      "deleted": null
+    },
+    {
+      "name": "setup_step_1_option_text",
+      "value": "text",
+      "display": "setup-step-1-option",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    },
+    {
+      "name": "topic_text",
+      "value": "text",
+      "display": "Topic - deleted",
+      "deleted": true
+    }
+  ],
+  "steps": [
+    {
+      "name": "steps_text",
+      "value": "text",
+      "display": "steps",
+      "deleted": null
+    }
+  ],
+  "store": [
+    {
+      "name": "accesstoken_custom_tokens",
+      "value": "custom.tokens",
+      "display": "accessToken - deleted",
+      "deleted": true
+    },
+    {
+      "name": "account_id_text",
+      "value": "text",
+      "display": "gtm_account_id",
+      "deleted": null
+    },
+    {
+      "name": "address_text",
+      "value": "text",
+      "display": "address",
+      "deleted": null
+    },
+    {
+      "name": "admin_email_text",
+      "value": "text",
+      "display": "admin_email",
+      "deleted": null
+    },
+    {
+      "name": "admin_name_text",
+      "value": "text",
+      "display": "admin name",
+      "deleted": null
+    },
+    {
+      "name": "analyzify_datalayer_body_file",
+      "value": "file",
+      "display": "analyzify-datalayer-body",
+      "deleted": null
+    },
+    {
+      "name": "analyzify_gtm_body_file",
+      "value": "file",
+      "display": "analyzify-gtm-body",
+      "deleted": null
+    },
+    {
+      "name": "analyzify_gtm_datalayer_body_file",
+      "value": "file",
+      "display": "analyzify-gtm-datalayer-body",
+      "deleted": null
+    },
+    {
+      "name": "api_ga_id_text",
+      "value": "text",
+      "display": "api_ga_id",
+      "deleted": null
+    },
+    {
+      "name": "app_embed_settings_custom_app_embed_settings",
+      "value": "custom.app_embed_settings",
+      "display": "app_embed_settings",
+      "deleted": null
+    },
+    {
+      "name": "bingid_text",
+      "value": "text",
+      "display": "BingID",
+      "default_val": "",
+      "deleted": null
+    },
+    {
+      "name": "cdn_scripts_settings_custom_cdn_scripts",
+      "value": "custom.cdn_scripts",
+      "display": "cdn_scripts_settings",
+      "deleted": null
+    },
+    {
+      "name": "codarowid_text",
+      "value": "text",
+      "display": "codaRowId",
+      "deleted": null
+    },
+    {
+      "name": "colleagueemails_list_text",
+      "value": "list.text",
+      "display": "colleagueEmails",
+      "deleted": null
+    },
+    {
+      "name": "complated_date_downloaded_gtm_container_date",
+      "value": "date",
+      "display": "complated_DATE_Downloaded-GTM-container",
+      "deleted": null
+    },
+    {
+      "name": "complated_date_enhancements_date",
+      "value": "date",
+      "display": "complated_date_Enhancements",
+      "deleted": null
+    },
+    {
+      "name": "complated_date_injected_datalayer_date",
+      "value": "date",
+      "display": "complated_Date_Injected_Datalayer",
+      "deleted": null
+    },
+    {
+      "name": "complated_date_process_onboarding_date",
+      "value": "date",
+      "display": "complated_Date_Onboarding",
+      "deleted": null
+    },
+    {
+      "name": "complated_date_setup_date",
+      "value": "date",
+      "display": "complated_Date_Setup",
+      "deleted": null
+    },
+    {
+      "name": "complated_date_validation_date",
+      "value": "date",
+      "display": "complated_date_validation",
+      "deleted": null
+    },
+    {
+      "name": "complated_process_onboarding_boolean",
+      "value": "boolean",
+      "display": "complated_Process-Onboarding",
+      "deleted": null
+    },
+    {
+      "name": "complated_process_setup_boolean",
+      "value": "boolean",
+      "display": "complated_Process-setup",
+      "deleted": null
+    },
+    {
+      "name": "complated_process_validation_boolean",
+      "value": "boolean",
+      "display": "complated_Process-Validation",
+      "deleted": null
+    },
+    {
+      "name": "complateted_enhancements__boolean",
+      "value": "boolean",
+      "display": "complated_Process-Enhancements?",
+      "deleted": null
+    },
+    {
+      "name": "country_text",
+      "value": "text",
+      "display": "Country",
+      "deleted": null
+    },
+    {
+      "name": "createdoncoda__boolean",
+      "value": "boolean",
+      "display": "createdOnCoda?",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "criteoid_text",
+      "value": "text",
+      "display": "CriteoID",
+      "deleted": null
+    },
+    {
+      "name": "currentstep_number__number",
+      "value": "number",
+      "display": "currentStep(Number) - deleted",
+      "deleted": true
+    },
+    {
+      "name": "currentstep_text",
+      "value": "text",
+      "display": "currentStep",
+      "default_val": "Onboarding-Step-1",
+      "deleted": null
+    },
+    {
+      "name": "currenttheme_id_text",
+      "value": "text",
+      "display": "currentTheme-ID",
+      "deleted": null
+    },
+    {
+      "name": "currrenttheme_name_text",
+      "value": "text",
+      "display": "currrentTheme-Name",
+      "deleted": null
+    },
+    {
+      "name": "date_completed_setup_date",
+      "value": "date",
+      "display": "date_Completed_setup",
+      "deleted": null
+    },
+    {
+      "name": "date_dfy_completed_all_proccess_date",
+      "value": "date",
+      "display": "date_dfy_completed_all_proccess",
+      "deleted": null
+    },
+    {
+      "name": "date_setup_finished_date",
+      "value": "date",
+      "display": "date_setup_finished",
+      "deleted": null
+    },
+    {
+      "name": "date_setup_in_progress_date",
+      "value": "date",
+      "display": "date_setup_in_progress",
+      "deleted": null
+    },
+    {
+      "name": "date_setup_in_quene_date",
+      "value": "date",
+      "display": "date_setup_in_quene",
+      "deleted": null
+    },
+    {
+      "name": "date_validation_finished_date",
+      "value": "date",
+      "display": "date_Validation_finished",
+      "deleted": null
+    },
+    {
+      "name": "date_validation_in_progress_date",
+      "value": "date",
+      "display": "date_Validation_in_progress",
+      "deleted": null
+    },
+    {
+      "name": "date_validation_is_queued_date",
+      "value": "date",
+      "display": "date_Validation_is_queued",
+      "deleted": null
+    },
+    {
+      "name": "dfy_completed_all_proccess_boolean",
+      "value": "boolean",
+      "display": "dfy_completed_all_proccess?",
+      "deleted": null
+    },
+    {
+      "name": "dfy_info_is_opened___new__boolean",
+      "value": "boolean",
+      "display": "DFY Info is Opened? (NEW)",
+      "deleted": null
+    },
+    {
+      "name": "dfy_status_option_store_status_dfy__os_",
+      "value": "option.store_status_dfy__os_",
+      "display": "DFY-Status",
+      "deleted": null
+    },
+    {
+      "name": "domain_text",
+      "value": "text",
+      "display": "domain",
+      "deleted": null
+    },
+    {
+      "name": "done_for_you_complated__boolean",
+      "value": "boolean",
+      "display": "done-for-you-complated?",
+      "deleted": null
+    },
+    {
+      "name": "dublicate_asseet_count_number",
+      "value": "number",
+      "display": "dublicate-asset-total",
+      "deleted": null
+    },
+    {
+      "name": "dublicate_asset_count_number",
+      "value": "number",
+      "display": "dublicate-asset-count",
+      "deleted": null
+    },
+    {
+      "name": "dublicate_theme_completed_boolean",
+      "value": "boolean",
+      "display": "dublicate-theme-completed",
+      "deleted": null
+    },
+    {
+      "name": "enhancementcomplatedlist_list_text",
+      "value": "list.text",
+      "display": "enhancementComplatedList",
+      "deleted": null
+    },
+    {
+      "name": "g_ads_access_mail_text",
+      "value": "text",
+      "display": "g-ads-access-mail",
+      "deleted": null
+    },
+    {
+      "name": "g_auth_custom_google_info",
+      "value": "custom.google_info",
+      "display": "g_auth_Order_process",
+      "deleted": null
+    },
+    {
+      "name": "ga4_api_secret_text",
+      "value": "text",
+      "display": "ga4_api_secret",
+      "deleted": null
+    },
+    {
+      "name": "ga4_measurement_id_pixel_test_text",
+      "value": "text",
+      "display": "ga4_measurement_id_pixel_test - deleted",
+      "deleted": true
+    },
+    {
+      "name": "ga4_migration_info_custom_ga4_migration_info",
+      "value": "custom.ga4_migration_info",
+      "display": "ga4_migration_info",
+      "deleted": null
+    },
+    {
+      "name": "getmetafields__boolean",
+      "value": "boolean",
+      "display": "getMetafields?",
+      "deleted": null
+    },
+    {
+      "name": "google_ads_account_details_custom_google_ads_account",
+      "value": "custom.google_ads_account",
+      "display": "Google Ads account Details",
+      "deleted": null
+    },
+    {
+      "name": "google_ads_selected___new__boolean",
+      "value": "boolean",
+      "display": "Google Ads Selected? (NEW)",
+      "deleted": null
+    },
+    {
+      "name": "google_analytics_account_details_custom_google_analytics_account",
+      "value": "custom.google_analytics_account",
+      "display": "Google Analytics account Details",
+      "deleted": null
+    },
+    {
+      "name": "google_analytics_order_p_account_custom_google_analytics_account1",
+      "value": "custom.google_analytics_account1",
+      "display": "Google_analytics_order_p_account_details",
+      "deleted": null
+    },
+    {
+      "name": "gtm_checkout_code_file",
+      "value": "file",
+      "display": "gtm-checkout-code",
+      "deleted": null
+    },
+    {
+      "name": "gtm_checkout_code_text",
+      "value": "text",
+      "display": "gtm-checkout-code - deleted",
+      "deleted": true
+    },
+    {
+      "name": "gtm_file_file",
+      "value": "file",
+      "display": "gtm-File",
+      "deleted": null
+    },
+    {
+      "name": "gtm_id_text",
+      "value": "text",
+      "display": "gtm-id",
+      "deleted": null
+    },
+    {
+      "name": "hotjarid_text",
+      "value": "text",
+      "display": "hotjar_site_ID",
+      "deleted": null
+    },
+    {
+      "name": "isdoityourselfgdpr__boolean",
+      "value": "boolean",
+      "display": "ischosenGDPR?",
+      "deleted": null
+    },
+    {
+      "name": "isfbswitchopen__boolean",
+      "value": "boolean",
+      "display": "isfbSwitchOpen?",
+      "deleted": null
+    },
+    {
+      "name": "isfbtestswitchopen__boolean",
+      "value": "boolean",
+      "display": "isFBTestSwitchOpen?",
+      "deleted": null
+    },
+    {
+      "name": "isga4_login_with_google__boolean",
+      "value": "boolean",
+      "display": "isGA4_login_with_google?",
+      "deleted": null
+    },
+    {
+      "name": "isgads_login_with_google__boolean",
+      "value": "boolean",
+      "display": "isGAds_login-with_google?",
+      "deleted": null
+    },
+    {
+      "name": "isgafouraddpaymentinfoopen__boolean",
+      "value": "boolean",
+      "display": "isGaFourAddPaymentInfoOpen? - deleted",
+      "deleted": true
+    },
+    {
+      "name": "isgafouraddtocartopen__boolean",
+      "value": "boolean",
+      "display": "isgaFourAddToCartOpen?",
+      "deleted": null
+    },
+    {
+      "name": "isgafourbegincheckoutopen__boolean",
+      "value": "boolean",
+      "display": "isGaFourBeginCheckoutOpen?",
+      "deleted": null
+    },
+    {
+      "name": "isgafourchekoutsteps_boolean",
+      "value": "boolean",
+      "display": "isGAFOURChekoutSteps",
+      "deleted": null
+    },
+    {
+      "name": "isgafourlogeventsopen__boolean",
+      "value": "boolean",
+      "display": "isGAFourLogEventsOpen?",
+      "deleted": null
+    },
+    {
+      "name": "isgafourpageviewopen__boolean",
+      "value": "boolean",
+      "display": "isGaFourPageViewOpen?",
+      "deleted": null
+    },
+    {
+      "name": "isgafourproductviewopen__boolean",
+      "value": "boolean",
+      "display": "isGaFourProductViewOpen?",
+      "deleted": null
+    },
+    {
+      "name": "isgafourpurchaseopen__boolean",
+      "value": "boolean",
+      "display": "isGaFourPurchaseOpen?",
+      "deleted": null
+    },
+    {
+      "name": "isgafoursearchopen__boolean",
+      "value": "boolean",
+      "display": "isGaFourSearchOpen?",
+      "deleted": null
+    },
+    {
+      "name": "isgaswitchopen__boolean",
+      "value": "boolean",
+      "display": "isGASwitchOpen?",
+      "deleted": null
+    },
+    {
+      "name": "isgorder_processor_login_boolean",
+      "value": "boolean",
+      "display": "isGOrder_Processor_login_with_google",
+      "deleted": null
+    },
+    {
+      "name": "isgtm_file_download__boolean",
+      "value": "boolean",
+      "display": "isgtm-file-download?",
+      "deleted": null
+    },
+    {
+      "name": "issentmailerlite_boolean",
+      "value": "boolean",
+      "display": "isSentMailerlite - deleted",
+      "deleted": true
+    },
+    {
+      "name": "issentmaillerlitepurchase_boolean",
+      "value": "boolean",
+      "display": "isSentMaillerlitePurchase",
+      "deleted": null
+    },
+    {
+      "name": "iswebpixelopen__boolean",
+      "value": "boolean",
+      "display": "isWebPixelOpen?",
+      "deleted": null
+    },
+    {
+      "name": "klavio_base_tag_boolean",
+      "value": "boolean",
+      "display": "klavio_base_tag",
+      "deleted": null
+    },
+    {
+      "name": "klavioid_text",
+      "value": "text",
+      "display": "klavioID",
+      "deleted": null
+    },
+    {
+      "name": "last_setup_stage__new__text",
+      "value": "text",
+      "display": "Last Setup Stage (NEW)",
+      "deleted": null
+    },
+    {
+      "name": "listofusers_list_user",
+      "value": "list.user",
+      "display": "listofUsers",
+      "deleted": null
+    },
+    {
+      "name": "microsoft_advertising_id_text",
+      "value": "text",
+      "display": "microsoft_advertising_id - deleted",
+      "deleted": true
+    },
+    {
+      "name": "microsoft_clarity_id_text",
+      "value": "text",
+      "display": "microsoft_clarity_id",
+      "deleted": null
+    },
+    {
+      "name": "microsoftid_text",
+      "value": "text",
+      "display": "microsoftID - deleted",
+      "deleted": true
+    },
+    {
+      "name": "msadv_id_text",
+      "value": "text",
+      "display": "microsoft_advertising_id",
+      "deleted": null
+    },
+    {
+      "name": "oat_id_text",
+      "value": "text",
+      "display": "oat_id_ga4",
+      "deleted": null
+    },
+    {
+      "name": "oldstorecomplated__boolean",
+      "value": "boolean",
+      "display": "oldStoreComplated? - deleted",
+      "default_val": false,
+      "deleted": true
+    },
+    {
+      "name": "oldstorecomplated__text",
+      "value": "text",
+      "display": "oldStoreComplated?",
+      "deleted": null
+    },
+    {
+      "name": "oldstorefirst__boolean",
+      "value": "boolean",
+      "display": "oldStoreFirst?",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "onb_completed_once__boolean",
+      "value": "boolean",
+      "display": "onb_completed_once?",
+      "deleted": null
+    },
+    {
+      "name": "onb_gads_step_number",
+      "value": "number",
+      "display": "onb_gAds_step",
+      "deleted": null
+    },
+    {
+      "name": "onb_gdpr_setup_step_number",
+      "value": "number",
+      "display": "onb_gdpr_setup_step",
+      "deleted": null
+    },
+    {
+      "name": "onb_gtm_step_number",
+      "value": "number",
+      "display": "onb_gtm_step",
+      "default_val": 1,
+      "deleted": null
+    },
+    {
+      "name": "onlyapi_space_id_text",
+      "value": "text",
+      "display": "onlyapi_space_id",
+      "deleted": null
+    },
+    {
+      "name": "op_cart_data__boolean",
+      "value": "boolean",
+      "display": "OP_cart_data?",
+      "deleted": null
+    },
+    {
+      "name": "order_processor_custom_order_processor",
+      "value": "custom.order_processor",
+      "display": "Order_processor",
+      "deleted": null
+    },
+    {
+      "name": "otherpixel_name_id_text",
+      "value": "text",
+      "display": "otherPixel-name/id",
+      "deleted": null
+    },
+    {
+      "name": "otherpixelinput_text",
+      "value": "text",
+      "display": "otherToolInputName",
+      "deleted": null
+    },
+    {
+      "name": "othertoolinput_id_text",
+      "value": "text",
+      "display": "otherToolInput-ID - deleted",
+      "deleted": true
+    },
+    {
+      "name": "pinterestid_text",
+      "value": "text",
+      "display": "pinterestID",
+      "default_val": "",
+      "deleted": null
+    },
+    {
+      "name": "plusstore_checkoutcode_file",
+      "value": "file",
+      "display": "plusStore_checkoutCode",
+      "deleted": null
+    },
+    {
+      "name": "pre_deal_id_pipedrive_text",
+      "value": "text",
+      "display": "pre_deal_id_pipedrive",
+      "deleted": null
+    },
+    {
+      "name": "product_list_json_text",
+      "value": "text",
+      "display": "product_list_json - deleted",
+      "deleted": true
+    },
+    {
+      "name": "progressrate_number",
+      "value": "number",
+      "display": "ProgressRate",
+      "default_val": 0,
+      "deleted": null
+    },
+    {
+      "name": "purchase_date1_date",
+      "value": "date",
+      "display": "installed_date",
+      "deleted": null
+    },
+    {
+      "name": "purchase_date2_date",
+      "value": "date",
+      "display": "Purchase_Date",
+      "deleted": null
+    },
+    {
+      "name": "purchase_date_date",
+      "value": "date",
+      "display": "purchase_date",
+      "deleted": true
+    },
+    {
+      "name": "purchase_date_text",
+      "value": "text",
+      "display": "installed_dateText",
+      "deleted": null
+    },
+    {
+      "name": "purchases_list_text",
+      "value": "list.text",
+      "display": "purchases - deleted",
+      "deleted": true
+    },
+    {
+      "name": "ready_to_access__new__list_option_tools__os_",
+      "value": "list.option.tools__os_",
+      "display": "Ready to Access (NEW)",
+      "deleted": null
+    },
+    {
+      "name": "refreshthepage_1_boolean",
+      "value": "boolean",
+      "display": "Refreshthepage? - deleted",
+      "deleted": true
+    },
+    {
+      "name": "refreshthepage__boolean",
+      "value": "boolean",
+      "display": "Refreshthepage?",
+      "deleted": null
+    },
+    {
+      "name": "selected_other_integrations__new__list_option_other_integration_apps__oset_",
+      "value": "list.option.other_integration_apps__oset_",
+      "display": "Selected Other Integrations (NEW)",
+      "deleted": null
+    },
+    {
+      "name": "setup_images__new__list_image",
+      "value": "list.image",
+      "display": "Setup Images (NEW)",
+      "deleted": null
+    },
+    {
+      "name": "setup_methods_text",
+      "value": "text",
+      "display": "setup-methods",
+      "deleted": null
+    },
+    {
+      "name": "setup_note_date_date",
+      "value": "date",
+      "display": "setup_note_date",
+      "deleted": null
+    },
+    {
+      "name": "setup_note_text",
+      "value": "text",
+      "display": "setup_note",
+      "deleted": null
+    },
+    {
+      "name": "setup_process_option_setup_process",
+      "value": "option.setup_process",
+      "display": "setup-integration-method",
+      "deleted": null
+    },
+    {
+      "name": "setup_steps__new__number",
+      "value": "number",
+      "display": "Setup Steps (NEW)",
+      "default_val": 1,
+      "deleted": null
+    },
+    {
+      "name": "sfy_currency_text",
+      "value": "text",
+      "display": "sfy_currency",
+      "deleted": null
+    },
+    {
+      "name": "sfy_timezone_text",
+      "value": "text",
+      "display": "sfy_timezone - deleted",
+      "deleted": true
+    },
+    {
+      "name": "shop_id_text",
+      "value": "text",
+      "display": "shop_Id",
+      "deleted": null
+    },
+    {
+      "name": "shop_name_text",
+      "value": "text",
+      "display": "shop_name",
+      "deleted": null
+    },
+    {
+      "name": "shop_owner_text",
+      "value": "text",
+      "display": "shop_owner",
+      "deleted": null
+    },
+    {
+      "name": "shop_settings_custom_user_settings",
+      "value": "custom.user_settings",
+      "display": "shop-settings",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "Shop",
+      "deleted": null
+    },
+    {
+      "name": "shopify_steps__new__number",
+      "value": "number",
+      "display": "Shopify Steps (NEW)",
+      "default_val": 1,
+      "deleted": null
+    },
+    {
+      "name": "shopify_store_password_text",
+      "value": "text",
+      "display": "shopify_store_password",
+      "deleted": null
+    },
+    {
+      "name": "skippedenha__boolean",
+      "value": "boolean",
+      "display": "skippedEnha?",
+      "deleted": null
+    },
+    {
+      "name": "skippedvalidation__boolean",
+      "value": "boolean",
+      "display": "skippedValidation?",
+      "deleted": null
+    },
+    {
+      "name": "snapchatid_text",
+      "value": "text",
+      "display": "snapchatID",
+      "default_val": "",
+      "deleted": null
+    },
+    {
+      "name": "statetments_custom_statements",
+      "value": "custom.statements",
+      "display": "statetments",
+      "deleted": null
+    },
+    {
+      "name": "store_access_list_option_store_access__os_",
+      "value": "list.option.store_access__os_",
+      "display": "Store-Access",
+      "deleted": null
+    },
+    {
+      "name": "store_plan_text",
+      "value": "text",
+      "display": "store_plan",
+      "deleted": null
+    },
+    {
+      "name": "store_status_option_store_status",
+      "value": "option.store_status",
+      "display": "Store-Status",
+      "deleted": null
+    },
+    {
+      "name": "sub_text",
+      "value": "text",
+      "display": "Sub",
+      "deleted": null
+    },
+    {
+      "name": "support_expiry_date",
+      "value": "date",
+      "display": "Support-expiry",
+      "deleted": null
+    },
+    {
+      "name": "support_validity_text",
+      "value": "text",
+      "display": "Support expiryTEXT",
+      "deleted": null
+    },
+    {
+      "name": "tiktokid_text",
+      "value": "text",
+      "display": "tiktokID",
+      "default_val": "",
+      "deleted": null
+    },
+    {
+      "name": "timezone_text",
+      "value": "text",
+      "display": "timezone",
+      "deleted": null
+    },
+    {
+      "name": "twitter_atc_id_text",
+      "value": "text",
+      "display": "twitter_atc_id",
+      "deleted": null
+    },
+    {
+      "name": "twitter_bc_id_text",
+      "value": "text",
+      "display": "twitter_bc_id",
+      "deleted": null
+    },
+    {
+      "name": "twitter_pv_id_text",
+      "value": "text",
+      "display": "twitter_pv_id",
+      "deleted": null
+    },
+    {
+      "name": "twitter_search_id_text",
+      "value": "text",
+      "display": "twitter_search_id",
+      "deleted": null
+    },
+    {
+      "name": "twitterid_text",
+      "value": "text",
+      "display": "twitterID",
+      "default_val": "",
+      "deleted": null
+    },
+    {
+      "name": "validation_by_analyzify_boolean",
+      "value": "boolean",
+      "display": "validation_by_analyzify",
+      "deleted": null
+    },
+    {
+      "name": "validation_images__new_1_list_image",
+      "value": "list.image",
+      "display": "Validation Images (NEW)",
+      "deleted": null
+    },
+    {
+      "name": "validation_images__new__list_image",
+      "value": "list.image",
+      "display": "Validation Images (NEW) - deleted",
+      "deleted": true
+    },
+    {
+      "name": "validation_option_number",
+      "value": "number",
+      "display": "validation_option",
+      "deleted": true
+    },
+    {
+      "name": "validation_steps__new__number",
+      "value": "number",
+      "display": "Validation Steps (NEW)",
+      "default_val": 1,
+      "deleted": null
+    },
+    {
+      "name": "webpixel_id_text",
+      "value": "text",
+      "display": "webpixel ID",
+      "deleted": null
+    },
+    {
+      "name": "wp_fb_access_token_text",
+      "value": "text",
+      "display": "WP-FB-Access-token",
+      "deleted": null
+    },
+    {
+      "name": "wp_fb_pixel_id_text",
+      "value": "text",
+      "display": "WP-Fb-pixel-id",
+      "deleted": null
+    },
+    {
+      "name": "wp_fb_test_event_text",
+      "value": "text",
+      "display": "WP-FB-TEST-Event",
+      "deleted": null
+    },
+    {
+      "name": "zendeskorganizationid_text",
+      "value": "text",
+      "display": "ZendeskOrganizationID",
+      "deleted": null
+    }
+  ],
+  "store_all_info": [
+    {
+      "name": "access_token_custom_tokens",
+      "value": "custom.tokens",
+      "display": "access_token",
+      "deleted": null
+    },
+    {
+      "name": "app_charge_list_custom_app_charge",
+      "value": "list.custom.app_charge",
+      "display": "app_charge",
+      "deleted": null
+    },
+    {
+      "name": "charge_date_date",
+      "value": "date",
+      "display": "charge_date - deleted",
+      "deleted": true
+    },
+    {
+      "name": "charge_date_list_date",
+      "value": "list.date",
+      "display": "charge_date - deleted",
+      "deleted": true
+    },
+    {
+      "name": "completed_todo_list_list_custom_complatedtodolist",
+      "value": "list.custom.complatedtodolist",
+      "display": "completed_todo_list",
+      "deleted": null
+    },
+    {
+      "name": "contentfull_data_list_custom_troubleshooting",
+      "value": "list.custom.troubleshooting",
+      "display": "contentfull_data",
+      "deleted": null
+    },
+    {
+      "name": "installed_date_date",
+      "value": "date",
+      "display": "installed_date",
+      "deleted": null
+    },
+    {
+      "name": "old_store__boolean",
+      "value": "boolean",
+      "display": "old_store?",
+      "deleted": null
+    },
+    {
+      "name": "paid__boolean",
+      "value": "boolean",
+      "display": "paid?",
+      "deleted": null
+    },
+    {
+      "name": "problem_info_list_custom_storeprobleminfo",
+      "value": "list.custom.storeprobleminfo",
+      "display": "problem_info",
+      "deleted": null
+    },
+    {
+      "name": "purchase_date_date",
+      "value": "date",
+      "display": "purchase_date",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    },
+    {
+      "name": "store_custom_store",
+      "value": "custom.store",
+      "display": "store",
+      "deleted": null
+    },
+    {
+      "name": "team_list_custom_team",
+      "value": "list.custom.team",
+      "display": "team",
+      "deleted": null
+    }
+  ],
+  "store_status": [
+    {
+      "name": "file_file",
+      "value": "file",
+      "display": "file",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    },
+    {
+      "name": "statusdescription_text",
+      "value": "text",
+      "display": "statusDescription",
+      "deleted": null
+    },
+    {
+      "name": "statusname_text",
+      "value": "text",
+      "display": "StatusName",
+      "deleted": null
+    }
+  ],
+  "store_status1": [
+    {
+      "name": "panel_text",
+      "value": "text",
+      "display": "panel - deleted",
+      "deleted": true
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    },
+    {
+      "name": "status_name_text",
+      "value": "text",
+      "display": "Status-text",
+      "deleted": null
+    },
+    {
+      "name": "store_type_text",
+      "value": "text",
+      "display": "status-type",
+      "deleted": null
+    }
+  ],
+  "storeproblem": [
+    {
+      "name": "problem_description_text",
+      "value": "text",
+      "display": "problem-description - deleted",
+      "deleted": true
+    },
+    {
+      "name": "problem_files_list_file",
+      "value": "list.file",
+      "display": "problem-files - deleted",
+      "deleted": true
+    },
+    {
+      "name": "problem_name_text",
+      "value": "text",
+      "display": "Problem-name - deleted",
+      "deleted": true
+    },
+    {
+      "name": "store_custom_store",
+      "value": "custom.store",
+      "display": "store",
+      "deleted": null
+    },
+    {
+      "name": "storeproblem_custom_storeprobleminfo",
+      "value": "custom.storeprobleminfo",
+      "display": "storeProblem",
+      "deleted": null
+    }
+  ],
+  "storeprobleminfo": [
+    {
+      "name": "problem_description_text",
+      "value": "text",
+      "display": "problem-description",
+      "deleted": null
+    },
+    {
+      "name": "problem_files_list_file",
+      "value": "list.file",
+      "display": "problem-files",
+      "deleted": null
+    },
+    {
+      "name": "problem_name_text",
+      "value": "text",
+      "display": "Problem-name",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    }
+  ],
+  "supportform": [
+    {
+      "name": "attachments_list_file",
+      "value": "list.file",
+      "display": "Attachments",
+      "deleted": null
+    },
+    {
+      "name": "description_text",
+      "value": "text",
+      "display": "Description",
+      "deleted": null
+    },
+    {
+      "name": "issue_text",
+      "value": "text",
+      "display": "Issue",
+      "deleted": null
+    },
+    {
+      "name": "other_issue_text",
+      "value": "text",
+      "display": "Other-issue",
+      "deleted": null
+    },
+    {
+      "name": "urgency_text",
+      "value": "text",
+      "display": "Urgency",
+      "deleted": null
+    }
+  ],
+  "team": [
+    {
+      "name": "coda_rowid_text",
+      "value": "text",
+      "display": "coda_rowID",
+      "deleted": null
+    },
+    {
+      "name": "member_full_name_text",
+      "value": "text",
+      "display": "Member Full Name",
+      "deleted": null
+    },
+    {
+      "name": "pipedrive_id_text",
+      "value": "text",
+      "display": "pipeDrive_id",
+      "deleted": null
+    },
+    {
+      "name": "role_option_team_member_role",
+      "value": "option.team_member_role",
+      "display": "role",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    },
+    {
+      "name": "team_member_list_user",
+      "value": "list.user",
+      "display": "Team_member - deleted",
+      "deleted": true
+    },
+    {
+      "name": "team_member_text",
+      "value": "text",
+      "display": "Team_member_mail",
+      "deleted": null
+    },
+    {
+      "name": "user_id_zendesk_text",
+      "value": "text",
+      "display": "user_id_zendesk",
+      "deleted": null
+    }
+  ],
+  "test": [
+    {
+      "name": "access_count_number",
+      "value": "number",
+      "display": "access_count",
+      "deleted": null
+    },
+    {
+      "name": "id_text",
+      "value": "text",
+      "display": "id",
+      "deleted": null
+    },
+    {
+      "name": "json_gtm_api_apiconnector2_cnGUq_cnHrb",
+      "value": "api.apiconnector2.cnGUq.cnHrb",
+      "display": "json_gtm",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "name",
+      "deleted": null
+    },
+    {
+      "name": "role_text",
+      "value": "text",
+      "display": "role",
+      "deleted": null
+    },
+    {
+      "name": "storeurl_text",
+      "value": "text",
+      "display": "storeurl",
+      "deleted": null
+    }
+  ],
+  "test_faq": [
+    {
+      "name": "faq_questions_text",
+      "value": "text",
+      "display": "faq-questions",
+      "deleted": null
+    }
+  ],
+  "test_form": [
+    {
+      "name": "email_text",
+      "value": "text",
+      "display": "email",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "name",
+      "deleted": null
+    }
+  ],
+  "test_product_list_shopify": [
+    {
+      "name": "isnextcontains__boolean",
+      "value": "boolean",
+      "display": "isnextcontains?",
+      "deleted": null
+    },
+    {
+      "name": "link_text",
+      "value": "text",
+      "display": "link",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "name",
+      "deleted": null
+    },
+    {
+      "name": "next_link_text",
+      "value": "text",
+      "display": "next_link",
+      "deleted": null
+    },
+    {
+      "name": "value_number",
+      "value": "number",
+      "display": "value",
+      "deleted": null
+    },
+    {
+      "name": "value_text",
+      "value": "text",
+      "display": "value - deleted",
+      "deleted": true
+    }
+  ],
+  "theme_values": [
+    {
+      "name": "key_text",
+      "value": "text",
+      "display": "key",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    },
+    {
+      "name": "theme_id_text",
+      "value": "text",
+      "display": "theme_id",
+      "deleted": null
+    },
+    {
+      "name": "values_text",
+      "value": "text",
+      "display": "values",
+      "deleted": null
+    }
+  ],
+  "tokens": [
+    {
+      "name": "charge_date_date",
+      "value": "date",
+      "display": "charge_date",
+      "deleted": null
+    },
+    {
+      "name": "configured__boolean",
+      "value": "boolean",
+      "display": "configured?",
+      "deleted": null
+    },
+    {
+      "name": "expires_in_number",
+      "value": "number",
+      "display": "expires_in",
+      "deleted": null
+    },
+    {
+      "name": "istracingran_boolean",
+      "value": "boolean",
+      "display": "isTracingRan",
+      "deleted": null
+    },
+    {
+      "name": "newscopes_boolean",
+      "value": "boolean",
+      "display": "newScopes",
+      "deleted": null
+    },
+    {
+      "name": "oldstore__boolean",
+      "value": "boolean",
+      "display": "oldStore?",
+      "deleted": null
+    },
+    {
+      "name": "paid__boolean",
+      "value": "boolean",
+      "display": "paid?",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "refunded__boolean",
+      "value": "boolean",
+      "display": "refunded?",
+      "deleted": null
+    },
+    {
+      "name": "returned_offline__boolean",
+      "value": "boolean",
+      "display": "returned_offline?",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    },
+    {
+      "name": "token_id_text",
+      "value": "text",
+      "display": "token-id",
+      "deleted": null
+    }
+  ],
+  "troubleshooting": [
+    {
+      "name": "custom_slug_text",
+      "value": "text",
+      "display": "custom-slug",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    },
+    {
+      "name": "type_option_contentful_type",
+      "value": "option.contentful_type",
+      "display": "Type",
+      "deleted": null
+    }
+  ],
+  "user_settings": [
+    {
+      "name": "acc_gads_step_number",
+      "value": "number",
+      "display": "acc_GAds_step",
+      "deleted": null
+    },
+    {
+      "name": "addtionalscriptid_text",
+      "value": "text",
+      "display": "addtionalScriptId",
+      "deleted": false
+    },
+    {
+      "name": "alertshowfb_boolean",
+      "value": "boolean",
+      "display": "alertshowFB",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "alertshowgads_boolean",
+      "value": "boolean",
+      "display": "AlertshowGads",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "alertshowotherp_boolean",
+      "value": "boolean",
+      "display": "alertshowOtherP",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "alertshowsetupgtm_boolean",
+      "value": "boolean",
+      "display": "alerthideSETUPGTM",
+      "default_val": false,
+      "deleted": false
+    },
+    {
+      "name": "analyizfy_partners_form_submited__boolean",
+      "value": "boolean",
+      "display": "analyizfy_partners_form_submited? - deleted",
+      "deleted": true
+    },
+    {
+      "name": "analyzify_partner_form_confirmed_boolean",
+      "value": "boolean",
+      "display": "analyzify_partner_form_confirmed - deleted",
+      "deleted": true
+    },
+    {
+      "name": "codarowid_text",
+      "value": "text",
+      "display": "codaRowID",
+      "deleted": null
+    },
+    {
+      "name": "codeinjectvalue1_boolean",
+      "value": "boolean",
+      "display": "CodeInjectvalue1",
+      "deleted": null
+    },
+    {
+      "name": "codeinjectvalue2_boolean",
+      "value": "boolean",
+      "display": "CodeInjectvalue2",
+      "deleted": null
+    },
+    {
+      "name": "codeinjectvalue3_boolean",
+      "value": "boolean",
+      "display": "CodeInjectvalue3",
+      "deleted": null
+    },
+    {
+      "name": "codeinjectvalue4_boolean",
+      "value": "boolean",
+      "display": "CodeInjectvalue4",
+      "deleted": null
+    },
+    {
+      "name": "contenfullintegrationapps_list_api_apiconnector2_cmUsC_cmYmX_items",
+      "value": "list.api.apiconnector2.cmUsC.cmYmX.items",
+      "display": "ContenfullIntegrationApps",
+      "deleted": null
+    },
+    {
+      "name": "coociebotautoblocking__boolean",
+      "value": "boolean",
+      "display": "coociebotAutoBlocking?",
+      "deleted": null
+    },
+    {
+      "name": "coociebotid_text",
+      "value": "text",
+      "display": "coociebotID",
+      "deleted": null
+    },
+    {
+      "name": "custom_classes_metafield_text",
+      "value": "text",
+      "display": "custom_classes_metafield",
+      "deleted": null
+    },
+    {
+      "name": "datalayercheckout_boolean",
+      "value": "boolean",
+      "display": "injectdataLayerCHECKOUT",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "datalayers__boolean",
+      "value": "boolean",
+      "display": "Datalayers?",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "default_fill_analyzify_snippet_boolean",
+      "value": "boolean",
+      "display": "default-fill-analyzify-snippet",
+      "deleted": null
+    },
+    {
+      "name": "facebook_pixels__boolean",
+      "value": "boolean",
+      "display": "Facebook Pixels?",
+      "deleted": null
+    },
+    {
+      "name": "ga_anotherapps_text",
+      "value": "text",
+      "display": "GAds-AnotherApps",
+      "deleted": null
+    },
+    {
+      "name": "ga_known_problems_text",
+      "value": "text",
+      "display": "GAds-known-problems",
+      "deleted": null
+    },
+    {
+      "name": "ga_sample_product_id_text",
+      "value": "text",
+      "display": "GAds-Sample-Product-ID",
+      "deleted": null
+    },
+    {
+      "name": "ga_sample_product_url_text",
+      "value": "text",
+      "display": "GAds-Sample-Product-URL",
+      "deleted": null
+    },
+    {
+      "name": "ga_screenshot_file",
+      "value": "file",
+      "display": "GAds-Screenshot",
+      "deleted": null
+    },
+    {
+      "name": "gads_add_to_cart_label_full_text",
+      "value": "text",
+      "display": "Gads_Add_to_cart_label_full",
+      "deleted": null
+    },
+    {
+      "name": "gads_automatic_created__boolean",
+      "value": "boolean",
+      "display": "gads_automatic_created?",
+      "deleted": null
+    },
+    {
+      "name": "gads_automatic_created_acc_id_text",
+      "value": "text",
+      "display": "gads_automatic_created_acc_id",
+      "deleted": null
+    },
+    {
+      "name": "gads_begin_checkout_full_label_text",
+      "value": "text",
+      "display": "Gads_Begin_Checkout_full_label",
+      "deleted": null
+    },
+    {
+      "name": "gads_product_views_full_label_text",
+      "value": "text",
+      "display": "Gads_Product_views_full_label",
+      "deleted": null
+    },
+    {
+      "name": "gads_purchase_label_full_text",
+      "value": "text",
+      "display": "Gads_purchase_label_full",
+      "deleted": null
+    },
+    {
+      "name": "google_ads_conversions__boolean",
+      "value": "boolean",
+      "display": "Google Ads Conversions?",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "google_analytics_4__ga4___boolean",
+      "value": "boolean",
+      "display": "Google Analytics 4 (GA4)?",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "google_tag_manager__gtm___boolean",
+      "value": "boolean",
+      "display": "Google Tag Manager (GTM)?",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "havedeveloper_text",
+      "value": "text",
+      "display": "haveDeveloper",
+      "deleted": null
+    },
+    {
+      "name": "included_a_file_dublicated_theme__boolean",
+      "value": "boolean",
+      "display": "included_a_file_dublicated_theme? - deleted",
+      "deleted": true
+    },
+    {
+      "name": "included_a_file_live_theme_boolean",
+      "value": "boolean",
+      "display": "included_a_file_live_theme - deleted",
+      "deleted": true
+    },
+    {
+      "name": "included_analyzify_gtm_file_location_theme_id_text",
+      "value": "text",
+      "display": "included_analyzify_gtm_file_location_theme_id",
+      "deleted": null
+    },
+    {
+      "name": "included_file_a_theme__boolean",
+      "value": "boolean",
+      "display": "included_file_a_theme?",
+      "deleted": null
+    },
+    {
+      "name": "inject_analyzify_checkout_snippet_boolean",
+      "value": "boolean",
+      "display": "inject-analyzify-checkout-snippet",
+      "deleted": null
+    },
+    {
+      "name": "inject_analyzify_snippet_boolean",
+      "value": "boolean",
+      "display": "inject-analyzify-snippet",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "injectdatalayerstotheme_boolean",
+      "value": "boolean",
+      "display": "injectDatalayersToTheme",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "injectgtmtocheckout_boolean",
+      "value": "boolean",
+      "display": "injectGTMtoCHECKOUT",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "injectgtmtopluscheckout_boolean",
+      "value": "boolean",
+      "display": "injectGTMtoPlusCheckout",
+      "deleted": null
+    },
+    {
+      "name": "injectgtmtotheme_boolean",
+      "value": "boolean",
+      "display": "injectGTMtoTheme",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "injectplusdatalayercheckout_boolean",
+      "value": "boolean",
+      "display": "injectPlusDataLayerCheckout",
+      "deleted": null
+    },
+    {
+      "name": "my_problems_list_text",
+      "value": "list.text",
+      "display": "ListOfProblems",
+      "deleted": null
+    },
+    {
+      "name": "othepixelsvalues_list_text",
+      "value": "list.text",
+      "display": "otherPixelsValues",
+      "deleted": null
+    },
+    {
+      "name": "other_integration_filled_count_number",
+      "value": "number",
+      "display": "other_integration_filled_count",
+      "deleted": true
+    },
+    {
+      "name": "other_tags_pixels_through_gtm___boolean",
+      "value": "boolean",
+      "display": "Other tags/pixels through GTM ?",
+      "deleted": null
+    },
+    {
+      "name": "other_tags_pixels_through_gtm_selectedvalues_list_text",
+      "value": "list.text",
+      "display": "Other tags/pixels through GTM SelectedValues - deleted",
+      "deleted": true
+    },
+    {
+      "name": "other_tags_pixels_through_gtm_selectedvalues_text",
+      "value": "text",
+      "display": "Other tags/pixels through GTM SelectedValues",
+      "deleted": null
+    },
+    {
+      "name": "otherproblem__boolean",
+      "value": "boolean",
+      "display": "OtherProblem?",
+      "deleted": null
+    },
+    {
+      "name": "otherproblems_text",
+      "value": "text",
+      "display": "OtherProblems",
+      "deleted": null
+    },
+    {
+      "name": "referral_added__boolean",
+      "value": "boolean",
+      "display": "referral_added?",
+      "deleted": null
+    },
+    {
+      "name": "search_gtm_file_prc_starting__boolean",
+      "value": "boolean",
+      "display": "included_search-finished?",
+      "deleted": null
+    },
+    {
+      "name": "sending_onb_diy_mail_boolean",
+      "value": "boolean",
+      "display": "sending_onb_DIY_mail",
+      "deleted": null
+    },
+    {
+      "name": "sending_onb_not_active_mail__boolean",
+      "value": "boolean",
+      "display": "Sending_onb_not_active_mail?",
+      "deleted": null
+    },
+    {
+      "name": "sending_onb_not_active_turn_off__boolean",
+      "value": "boolean",
+      "display": "sending_onb_not_active_turn_off?",
+      "deleted": null
+    },
+    {
+      "name": "setup_step_new_v3_number",
+      "value": "number",
+      "display": "setup_step_New_v3",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    },
+    {
+      "name": "showalertga_boolean",
+      "value": "boolean",
+      "display": "AlertshowGA",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "showpopup_boolean",
+      "value": "boolean",
+      "display": "hidePopup",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "solve___fbpixel_boolean",
+      "value": "boolean",
+      "display": "Solve | FBPixel",
+      "deleted": null
+    },
+    {
+      "name": "solve___ga4_boolean",
+      "value": "boolean",
+      "display": "Solve | GA4",
+      "deleted": null
+    },
+    {
+      "name": "solve___gacontrcking_boolean",
+      "value": "boolean",
+      "display": "Solve | GAConTrcking",
+      "deleted": null
+    },
+    {
+      "name": "solve___garemarkenting_boolean",
+      "value": "boolean",
+      "display": "Solve | GaRemarkenting",
+      "deleted": null
+    },
+    {
+      "name": "solve___googleua_boolean",
+      "value": "boolean",
+      "display": "Solve | GoogleUA",
+      "deleted": null
+    },
+    {
+      "name": "solve___i_donthaveproblem_boolean",
+      "value": "boolean",
+      "display": "Solve | I'dontHaveProblem",
+      "deleted": null
+    },
+    {
+      "name": "solve___ihavenoidea_boolean",
+      "value": "boolean",
+      "display": "Solve | IHaveNoIdea",
+      "deleted": null
+    },
+    {
+      "name": "universal_analytics__boolean",
+      "value": "boolean",
+      "display": "Universal Analytics?",
+      "deleted": null
+    },
+    {
+      "name": "updated_input_list_list_option_onboarding_input_list",
+      "value": "list.option.onboarding_input_list",
+      "display": "updated_input_list",
+      "deleted": null
+    },
+    {
+      "name": "updated_input_list_option_onboarding_input_list",
+      "value": "option.onboarding_input_list",
+      "display": "updated_input_list",
+      "deleted": true
+    },
+    {
+      "name": "v3_store__boolean",
+      "value": "boolean",
+      "display": "v3_store?",
+      "deleted": null
+    },
+    {
+      "name": "var_current_theme_id_text",
+      "value": "text",
+      "display": "var-current-theme-id",
+      "deleted": null
+    },
+    {
+      "name": "var_facebook_pixel_id_text",
+      "value": "text",
+      "display": "var-facebook-pixel-id",
+      "default_val": "",
+      "deleted": null
+    },
+    {
+      "name": "var_ga4_product_format_option_gads_step_4_remarketing0",
+      "value": "option.gads_step_4_remarketing0",
+      "display": "var-ga4-product-format",
+      "deleted": null
+    },
+    {
+      "name": "var_ga4_product_format_text",
+      "value": "text",
+      "display": "var-ga4-product-format - deleted",
+      "deleted": true
+    },
+    {
+      "name": "var_ga_measurement_id_text",
+      "value": "text",
+      "display": "var-GA-Measurement-ID",
+      "default_val": "",
+      "deleted": null
+    },
+    {
+      "name": "var_ga_universal_analytics_id_text",
+      "value": "text",
+      "display": "var-GA-Universal-Analytics-ID",
+      "default_val": "",
+      "deleted": null
+    },
+    {
+      "name": "var_gads_convlabel_addtocart_text",
+      "value": "text",
+      "display": "var-GAds-ConvLabel-addtocart - deleted",
+      "deleted": true
+    },
+    {
+      "name": "var_gads_convlabel_detail_text",
+      "value": "text",
+      "display": "var-GAds-ConvLabel-detail - deleted",
+      "deleted": true
+    },
+    {
+      "name": "var_gads_itemid_mrk_text",
+      "value": "text",
+      "display": "var-Gads-ItemID-mrk-format",
+      "deleted": null
+    },
+    {
+      "name": "var_gads_itemid_mrk_value_text",
+      "value": "text",
+      "display": "var-Gads-itemID-mrk-format-value",
+      "deleted": null
+    },
+    {
+      "name": "var_gads_product_format_option_gads_step_4_remarketing",
+      "value": "option.gads_step_4_remarketing",
+      "display": "var-gads-product-format",
+      "deleted": null
+    },
+    {
+      "name": "var_google_ads_account_id_text",
+      "value": "text",
+      "display": "var-google-ads-account-id",
+      "default_val": "",
+      "deleted": null
+    },
+    {
+      "name": "var_google_ads_conservation_id_text",
+      "value": "text",
+      "display": "var-Google-ads-conversion-id",
+      "default_val": "",
+      "deleted": null
+    },
+    {
+      "name": "var_google_ads_conservation_label_text",
+      "value": "text",
+      "display": "var-Google-Ads-conversion-LABEL",
+      "default_val": "",
+      "deleted": null
+    },
+    {
+      "name": "var_google_ads_conversion_add_to_cart_tracking_id_text",
+      "value": "text",
+      "display": "var-google-ads-conversion-add_to_cart_tracking_id - deleted",
+      "deleted": true
+    },
+    {
+      "name": "var_google_ads_conversion_add_to_cart_tracking_label_text",
+      "value": "text",
+      "display": "var-google-ads-conversion-add_to_cart_tracking_label",
+      "deleted": null
+    },
+    {
+      "name": "var_google_ads_conversion_begin_checkout_tracking_id_text",
+      "value": "text",
+      "display": "var-google-ads-conversion-Begin_Checkout_Tracking_id - deleted",
+      "deleted": true
+    },
+    {
+      "name": "var_google_ads_conversion_begin_checkout_tracking_label_text",
+      "value": "text",
+      "display": "var-google-ads-conversion-Begin_Checkout_Tracking_label",
+      "deleted": null
+    },
+    {
+      "name": "var_google_ads_conversion_product_detail_tracking_id_text",
+      "value": "text",
+      "display": "var-google-ads-conversion-Product_detail_tracking-id - deleted",
+      "deleted": true
+    },
+    {
+      "name": "var_google_ads_conversion_product_detail_tracking_label_text",
+      "value": "text",
+      "display": "var-google-ads-conversion-Product_detail_tracking-label",
+      "deleted": null
+    },
+    {
+      "name": "var_google_ads_conversion_purchase_tracking_id_text",
+      "value": "text",
+      "display": "var-google-ads-conversion-purchase-tracking-id - deleted",
+      "deleted": true
+    },
+    {
+      "name": "var_google_ads_conversion_purchase_tracking_label_text",
+      "value": "text",
+      "display": "var-google-ads-conversion-purchase-tracking-label",
+      "deleted": null
+    },
+    {
+      "name": "var_gtm_container_id_text",
+      "value": "text",
+      "display": "var-GTM-Container-ID - deleted",
+      "default_val": "",
+      "deleted": true
+    },
+    {
+      "name": "var_gtm_note_text",
+      "value": "text",
+      "display": "var-GTM-Note - deleted",
+      "deleted": true
+    },
+    {
+      "name": "var_pinterest_pixel_id_text",
+      "value": "text",
+      "display": "var-Pinterest-Pixel-ID - deleted",
+      "default_val": "",
+      "deleted": true
+    }
+  ],
+  "user_status": [
+    {
+      "name": "status_1_complated_date_date",
+      "value": "date",
+      "display": "Status-1-Complated-date",
+      "deleted": null
+    },
+    {
+      "name": "status_2_complated_date_date",
+      "value": "date",
+      "display": "Status-2-Complated-date",
+      "deleted": null
+    },
+    {
+      "name": "status_3_complated_date_date",
+      "value": "date",
+      "display": "Status-3-Complated-date",
+      "deleted": null
+    },
+    {
+      "name": "status_4_complated_date_date",
+      "value": "date",
+      "display": "Status-4-Complated-date",
+      "deleted": null
+    },
+    {
+      "name": "status_5_complated_date_date",
+      "value": "date",
+      "display": "Status-5-Complated-date",
+      "deleted": null
+    },
+    {
+      "name": "status_6_complated_date_date",
+      "value": "date",
+      "display": "Status-6-Complated-date",
+      "deleted": null
+    },
+    {
+      "name": "status_name_text",
+      "value": "text",
+      "display": "Current-Status-name",
+      "deleted": null
+    },
+    {
+      "name": "status_number_number",
+      "value": "number",
+      "display": "Current-Status-number",
+      "deleted": null
+    },
+    {
+      "name": "user_user",
+      "value": "user",
+      "display": "User",
+      "deleted": null
+    }
+  ],
+  "v3_info": [
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    },
+    {
+      "name": "theme_id_text",
+      "value": "text",
+      "display": "theme_id",
+      "deleted": null
+    },
+    {
+      "name": "v3_version__boolean",
+      "value": "boolean",
+      "display": "v3_version?",
+      "deleted": null
+    }
+  ],
+  "zendesk_tickets": [
+    {
+      "name": "description_text",
+      "value": "text",
+      "display": "description",
+      "deleted": null
+    },
+    {
+      "name": "store_url_text",
+      "value": "text",
+      "display": "Store_url",
+      "deleted": null
+    },
+    {
+      "name": "subject_text",
+      "value": "text",
+      "display": "subject",
+      "deleted": null
+    },
+    {
+      "name": "tag_text",
+      "value": "text",
+      "display": "tag",
+      "deleted": null
+    },
+    {
+      "name": "zendesk_id_text",
+      "value": "text",
+      "display": "zendesk_id",
+      "deleted": null
+    },
+    {
+      "name": "zendesk_url_text",
+      "value": "text",
+      "display": "zendesk_url",
+      "deleted": null
+    }
+  ],
+  "zip_files": [
+    {
+      "name": "new_theme_name_text",
+      "value": "text",
+      "display": "new_theme_name",
+      "deleted": null
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "shop",
+      "deleted": null
+    },
+    {
+      "name": "zip_file_file",
+      "value": "file",
+      "display": "zip_file - deleted",
+      "deleted": true
+    },
+    {
+      "name": "zip_type_text",
+      "value": "text",
+      "display": "zip_type - deleted",
+      "deleted": true
+    },
+    {
+      "name": "zip_url_text",
+      "value": "text",
+      "display": "zip_url",
+      "deleted": null
+    }
+  ],
+  "user": [
+    {
+      "name": "access_shop_text",
+      "value": "text",
+      "display": "access_shop",
+      "deleted": null
+    },
+    {
+      "name": "accesstoken_text",
+      "value": "text",
+      "display": "accessToken - deleted",
+      "deleted": true
+    },
+    {
+      "name": "admin__boolean",
+      "value": "boolean",
+      "display": "admin? - deleted",
+      "deleted": true
+    },
+    {
+      "name": "analyizfy_partners_form_submited__boolean",
+      "value": "boolean",
+      "display": "analyizfy_partners_form_submited?",
+      "deleted": null
+    },
+    {
+      "name": "analyzify_partner_custom_analyzify_partner",
+      "value": "custom.analyzify_partner",
+      "display": "analyzify_partner",
+      "deleted": null
+    },
+    {
+      "name": "analyzify_partner_form_confirmed__boolean",
+      "value": "boolean",
+      "display": "analyzify_partner_form_status_old - deleted",
+      "deleted": true
+    },
+    {
+      "name": "analyzify_partner_form_status_text",
+      "value": "text",
+      "display": "analyzify_partner_form_status",
+      "deleted": null
+    },
+    {
+      "name": "compaltedrate_number",
+      "value": "number",
+      "display": "compaltedRate - deleted",
+      "default_val": 17,
+      "deleted": true
+    },
+    {
+      "name": "complated_process_boolean",
+      "value": "boolean",
+      "display": "completed_Process-Onboarding - deleted",
+      "default_val": false,
+      "deleted": true
+    },
+    {
+      "name": "complated_process_setup_boolean",
+      "value": "boolean",
+      "display": "🗑️completed_Process-Setup - deleted",
+      "default_val": false,
+      "deleted": true
+    },
+    {
+      "name": "contact_confirmed__boolean",
+      "value": "boolean",
+      "display": "contact-confirmed? - deleted",
+      "default_val": false,
+      "deleted": true
+    },
+    {
+      "name": "current_theme_api_apiconnector2_cmTAg_cmTAh_themes",
+      "value": "api.apiconnector2.cmTAg.cmTAh.themes",
+      "display": "current-theme - deleted",
+      "deleted": true
+    },
+    {
+      "name": "current_theme_text_text",
+      "value": "text",
+      "display": "🗑️ current-theme-id - deleted",
+      "deleted": true
+    },
+    {
+      "name": "currenttheme_text",
+      "value": "text",
+      "display": "currentTheme - deleted",
+      "deleted": true
+    },
+    {
+      "name": "facebook_pixel_id_text",
+      "value": "text",
+      "display": "🗑️ Facebook-pixel-id - deleted",
+      "default_val": "var-FB-Pixel",
+      "deleted": true
+    },
+    {
+      "name": "form_email_text",
+      "value": "text",
+      "display": "form-email - deleted",
+      "deleted": true
+    },
+    {
+      "name": "full_name_text",
+      "value": "text",
+      "display": "full name",
+      "deleted": null
+    },
+    {
+      "name": "ga_measurement_id_text",
+      "value": "text",
+      "display": "🗑️ GA-Measurement-ID - deleted",
+      "default_val": "var-GA4ID",
+      "deleted": true
+    },
+    {
+      "name": "ga_status_best_text",
+      "value": "text",
+      "display": "GA-Status-Best - deleted",
+      "deleted": true
+    },
+    {
+      "name": "ga_universal_analytics_id_text",
+      "value": "text",
+      "display": "🗑️ GA-Universal-Analytics-ID - deleted",
+      "default_val": "var-GA-UA-ID",
+      "deleted": true
+    },
+    {
+      "name": "ga_version_text",
+      "value": "text",
+      "display": "GA-Version - deleted",
+      "deleted": true
+    },
+    {
+      "name": "gdpr_compatible_text",
+      "value": "text",
+      "display": "GDPR-compatible - deleted",
+      "deleted": true
+    },
+    {
+      "name": "gmt_container_id_text",
+      "value": "text",
+      "display": "GTM-Container-ID - deleted",
+      "deleted": true
+    },
+    {
+      "name": "google_ads_conservation_id_text",
+      "value": "text",
+      "display": "🗑️ Google-ads-conservation-id - deleted",
+      "default_val": "var-GAds-Conv-ID",
+      "deleted": true
+    },
+    {
+      "name": "google_ads_conservation_label_text",
+      "value": "text",
+      "display": "🗑️ Google-Ads-Conservation-LABEL - deleted",
+      "default_val": "var-GAds-ConvLabel",
+      "deleted": true
+    },
+    {
+      "name": "gtm_note_text",
+      "value": "text",
+      "display": "GTM-Note - deleted",
+      "deleted": true
+    },
+    {
+      "name": "ispublicuser__boolean",
+      "value": "boolean",
+      "display": "ispublicUser?",
+      "deleted": null
+    },
+    {
+      "name": "json_file",
+      "value": "file",
+      "display": "json - deleted",
+      "deleted": true
+    },
+    {
+      "name": "json_text",
+      "value": "text",
+      "display": "json - deleted",
+      "deleted": true
+    },
+    {
+      "name": "last_name_text",
+      "value": "text",
+      "display": "last name",
+      "deleted": null
+    },
+    {
+      "name": "listofcompany_list_custom_company",
+      "value": "list.custom.company",
+      "display": "listofCompany - deleted",
+      "deleted": true
+    },
+    {
+      "name": "listofstore_list_custom_store",
+      "value": "list.custom.store",
+      "display": "listofStore",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "First name",
+      "deleted": null
+    },
+    {
+      "name": "other_platforms_note_text",
+      "value": "text",
+      "display": "Other-platforms-note - deleted",
+      "deleted": true
+    },
+    {
+      "name": "pinterest_pixel_id_text",
+      "value": "text",
+      "display": "🗑️ Pinterest-Pixel-ID - deleted",
+      "default_val": "var-Pinterest-Pixel",
+      "deleted": true
+    },
+    {
+      "name": "proggress_text",
+      "value": "text",
+      "display": "Proggress - deleted",
+      "deleted": true
+    },
+    {
+      "name": "progressrate_number",
+      "value": "number",
+      "display": "ProgressRate - deleted",
+      "default_val": 0,
+      "deleted": true
+    },
+    {
+      "name": "public_ga4_completed__boolean",
+      "value": "boolean",
+      "display": "public_ga4_completed? - deleted",
+      "deleted": true
+    },
+    {
+      "name": "public_ga4_list_custom_public_ga4_list",
+      "value": "custom.public_ga4_list",
+      "display": "public_ga4_list",
+      "deleted": null
+    },
+    {
+      "name": "public_ga4_step_number",
+      "value": "number",
+      "display": "public_ga4_step - deleted",
+      "deleted": true
+    },
+    {
+      "name": "purchase_date_date",
+      "value": "date",
+      "display": "purchase_date - deleted",
+      "deleted": true
+    },
+    {
+      "name": "role1_option_role",
+      "value": "option.role",
+      "display": "role",
+      "deleted": null
+    },
+    {
+      "name": "role_option_role",
+      "value": "option.role",
+      "display": "Role - deleted",
+      "deleted": true
+    },
+    {
+      "name": "selected_company_custom_company",
+      "value": "custom.company",
+      "display": "Selected_company - deleted",
+      "deleted": true
+    },
+    {
+      "name": "selected_store_custom_store",
+      "value": "custom.store",
+      "display": "Selected_store",
+      "deleted": null
+    },
+    {
+      "name": "setupproblems_list_text",
+      "value": "list.text",
+      "display": "SetupProblems - deleted",
+      "deleted": true
+    },
+    {
+      "name": "shop_text",
+      "value": "text",
+      "display": "SHOP",
+      "deleted": null
+    },
+    {
+      "name": "status_details_custom_user_status",
+      "value": "custom.user_status",
+      "display": "Status-details - deleted",
+      "deleted": true
+    },
+    {
+      "name": "status_step_number",
+      "value": "number",
+      "display": "Status-step - deleted",
+      "deleted": true
+    },
+    {
+      "name": "status_text",
+      "value": "text",
+      "display": "Status - deleted",
+      "deleted": true
+    },
+    {
+      "name": "sub_text",
+      "value": "text",
+      "display": "SUB - deleted",
+      "deleted": true
+    },
+    {
+      "name": "sublist_list_text",
+      "value": "list.text",
+      "display": "🗑️ subList - deleted",
+      "deleted": true
+    },
+    {
+      "name": "support_expiry_date",
+      "value": "date",
+      "display": "Support-expiry - deleted",
+      "deleted": true
+    },
+    {
+      "name": "team_list_custom_team",
+      "value": "list.custom.team",
+      "display": "Team - deleted",
+      "deleted": true
+    },
+    {
+      "name": "test__boolean",
+      "value": "boolean",
+      "display": "test? - deleted",
+      "deleted": true
+    },
+    {
+      "name": "user_settings_custom_user_settings",
+      "value": "custom.user_settings",
+      "display": "🗑️ User-settings - deleted",
+      "deleted": true
+    }
+  ]
+}
